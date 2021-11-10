@@ -10,7 +10,7 @@ public class LZ77 {
 
 
     public static void main(String[] args) {
-        simulate("diverselyx.lyx");
+        simulate("opg8.pdf");
     }
 
     private static void simulate(String filename) {
@@ -54,7 +54,6 @@ public class LZ77 {
         byte[] bytes;
         try (DataInputStream dis = new DataInputStream((new BufferedInputStream(new FileInputStream(System.getProperty("user.dir") + "/" + filename))))) {
             bytes = dis.readAllBytes();
-            dis.close();
         } catch (Exception e) {
             e.printStackTrace();
             throw new RuntimeException("An error occured while writing file.");
@@ -69,8 +68,6 @@ public class LZ77 {
             for (byte b : data) {
                 dos.writeByte(b);
             }
-            dos.flush();
-            dos.close();
         } catch (Exception e) {
             e.printStackTrace();
             throw new RuntimeException("An error occured while writing file.");
@@ -116,6 +113,9 @@ public class LZ77 {
             position++;
 
             for (int l = 0; l < length; l++) {
+                if (decodedStream.size() - offset == -82) {
+                    System.out.println("Stream size: " + decodedStream.size() + " - " + "Offset: " + offset);
+                }
                 decodedStream.add(decodedStream.get(decodedStream.size() - offset));
             }
         }
@@ -133,7 +133,7 @@ public class LZ77 {
             int pointerOffset = 0;
             boolean matchFound = false;
 
-            for (int peekLength = BUFFER_SIZE; peekLength > 0; peekLength--) {
+            for (int peekLength = BUFFER_SIZE; peekLength > 2; peekLength--) {
                 for (int offset = 0; offset <= WINDOW_SIZE - peekLength; offset++) {
                     int peekEnd = Math.min(position + peekLength, input.length);
                     byte[] peek = Arrays.copyOfRange(input, position, peekEnd);
@@ -141,8 +141,12 @@ public class LZ77 {
                     int windowEnd = Math.max(position - WINDOW_SIZE + offset + peekLength, 0);
                     byte[] window = Arrays.copyOfRange(input, windowStart, windowEnd);
 
+                    if (peek.length < 2) {
+                        break;
+                    }
+
                     // If a match is found, save the pointer
-                    if (Arrays.equals(peek, window) && peek.length > 2) {
+                    if (Arrays.equals(peek, window)) {
                         pointerOffset = position - windowStart;
                         pointerLength = peek.length;
                         position += peek.length;
@@ -155,7 +159,7 @@ public class LZ77 {
             }
 
             boolean lastEntry = position >= input.length-1;
-            boolean maxedOut = -uncompressables.size() == Byte.MIN_VALUE;
+            boolean maxedOut = -uncompressables.size() -1  == Byte.MIN_VALUE;
 
             if (matchFound) {
                 // Transfer uncompressables
