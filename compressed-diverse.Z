@@ -1,0 +1,256 @@
+ÇTekstsÃ¸k, Datakompresjon
+
+Helge Hafting
+
+Institutt for d-ñteknologi og in÷matikk
+
+SVDı 1 `	ò
+
+
+
+
+  â€¢ Fri;wè i dokumenter, nettsiderSølignende8øatabaserXÿSgúemotorÿ VSürepef÷te strengfıforHökompresjonmñDNA-matching
+
+
+gøTekst: ryõrbra     (lLûde n)uqûord:  ÿm ûkyv s%öet langs tXöen, se om úpasservû  â€¢$ügn só, vises med fIúskrift/
+üfÃ¸rTşil%úkursivP
+ôdobbeltlÃ¸kk'ûor n-]ùosisjonaüog mwıi s'øeordet. eÿ
+j×Hele greia, O\left(n\cdot m\right),\Omega@û  ForVû  | rÿa
+ÿb
+	ü
+---ÿ+
+
+.jı  0Mÿ|
+
+/ÿ
+47ùForsÃ¸k3B=GQÿ
+~{
+
+jı  1{R
+/ÿ
+47ùForsÃ¸k.=8BLÿ
+~{
+
+jı  2{W/ÿ
+47ùForsÃ¸k)83=Gÿ
+~{
+
+jı  3{
+\
+ÿ
+47ùForsÃ¸k$3.8Bÿ
+~{
+
+jı  4z{
+
+a#ÿ
+47ùForsÃ¸k.)3=ÿ
+~{
+
+jı  5u{
+
+f47ùForsÃ¸k)
+.8~{
+
+jı  0Mÿ|
+
+/3ÿ138&fÿ23p!fÿ33pfÿ43pfÿ53pı
+
+
+Ş  â€¢ Se pÃ¥ siste tegn i sÃ¸ketekøn fÃ¸rst/ôHvis det ikk:ôasser, flytt7ÿsUôlangt vi kanq~ü | rÿa
+ÿb
+	3ú-----+
+
+)`ş 0Kÿ|x}
+
+`2ÿ1#<dÿ2Usdÿ32sdÿ
+jÓâ€¢ Hvis det passer, se pÃ¥ nestsiste osv.
+
+
+4ütegn7ìikke fins i sÃ¸ketek6òn, kan vi flytFşm Lÿg|ûfrem:Mş |ÿe
+ÿt
+	ÿoÿrÿi	ÿs(ÿnLú-----+
+
+("Nı  0oÿ|!
+
+(Nÿ15g+Nÿ2~*bNÿ
+Ríâ€¢ Hvis tegnet finöil venstre0æsÃ¸keordet, kan vi flytte Jÿ %ş¥ öpasser medRûksteng	úVi har?ótabell for hvımyeY`]6÷I praksis6ùele alfHütet,Fşde>ÿev}ÿgzö    gir etVå pÃ¥ m. (Regel om Â«upassen;4ıÂ»)zÿTmvólager vi ved A÷pre-prose8õre sÃ¸ketekwÿn<	ÿs`úfins i$ö, gir kort>úflytt
+tvö“ En Â«sÂ»5ÿiSı poıjon6.ğ pÃ¥ m-1, fordi ıet Bû  staY$I[æâ€¢ \Omega\left(n/m\right)Cê sÃ¸ket. Mye bedre!
+
+
+;÷Hvis tegngõikke fins i8èeksten, kan vi flytte m şg }ù  frem,NPı“ hPímismatch var pÃ¥ siHg[9
+ımed8
+4ünest8õkan vi flytKüm-1 Sÿgy
+ÿv@D	ÿ,9ÿrDım-2=û osv.BEü | mÿe
+ÿt
+	ÿoÿrÿi	ÿs(ÿnLú-----+
+
+("Nı  0~ÿmj	et
+
+(
+Nÿ1:]5Nÿ
+RÑâ€¢ Vi trenger altsÃ¥ en todimensjonal tabell:
+35ô“ En indeks 7ödet upasseù tegnet+
+ÿDOûandre2^küposi^løi sÃ¸ketNıtend
+ûVerdi ÿc~7Ühvor langt vi kan flytte fremover
+
+
+~ÿF*ÿhk	ş pk)	øt tegn xqûalfab'ÿt#(õlet mot sta*I~ıa p,
+òhvis vi finnerRıett~bÿ,T
+ÿsò Tab[p][x] = iDüikkeI	ÿ,.
+ù=p+1
+
+
+x{ı| rÿe
+ÿn-ú-----+
+
+)\ÿ0JO
+
+^ı  1 	4 ^ÿ2Oh^ym^ÿ
+bêâ€¢ 0,1: NÃ¥r siste poİjon treffer Â«nÂ», kan vi bare flyt+ıetty8ÿgPò2: Feil i fÃ¸rRÿ
+suö“ Regel om]öupassende Ejø lar ossjühakke@?	DılseB=şto<ü her@ıÂ«n){ût, ogIÿeîoverlapper med segşlvyùVi slÃ¥`úpp bÃ¥xıÂ«uHû tegnEÿg[şlsngGú  bruk`ìregelen som gir det úgste h`ùet. 
+
+
+~ûTabel3ıforxd*,ı“ i}şx gşhv-÷mange tego:ÿt-
+ûverdiXıi ca8ÿl8ùt vi kavûlyttec÷â€¢ Lages:ñd Ã¥ prÃ¸ve ut ^ösÃ¸ketekstSÿo\ülappRÿm,ısegılv
+}
+ôofte gjÃ¸r d{üikke	ût, ogzğfÃ¥r lange hopp!:=>øâ€¢ Hvis%sûr etth÷Â«aaaÂ» i
+öâ€¦Â», harRàdessverre O\left(n\cdot m\right)\ı   ceÿ“]öordet passhÿo?üalt,Kõ samme a-enöjekkes fle^Hù gangerOáâ€¢ Galil fant en mÃ¥te Ã¥ unng÷Ã¸dvendigZúnligniBÿ:CE÷“ NÃ¥r vihìytter sÃ¸keordet korÿe]ın dbıdelhşav$Hÿ Aıall-ûde haFõjekket, treqbÿiO;	öoverlappen<ûomrÃ¥|÷omigjen.
+aíâ€“ Korte flytt skjTõfordi sÃ¸ke
+Rôdelvis matchtısegılv.kÿH{øikke hadrùpasset,şvibMúlenger<=@ùTekstenKı| .
+	ÿOÿlÿa
+
+(ş| HõMismatch O/,OT@T
+(1JôNytt forsÃ¸kF
+P
+U K	ÿ
+Oáâ€¢ Programmet trenger ikke sjeøden oranù regionúmigjenCßDermed: O\left(n\right) og \Omegaş/müfor =ò  tekstsÃ¸k
+
+
+RûBoyer@íMoore sin artikkel:%ã  http://www.cs.utexas.edu/~m4ç/publications/fstrpos.pdfc÷WikipediaQÿsRüen.wû.org/ù/Boyer_[ÿ_Mìing_search_algorithmZäAnimasjon (Fyll ut, og velg Gş-MGÿ)uò Trenger java
+BÙ  http://www.cs.pitt.edu/~kirk/cs1501/adïtions/String.html@ùâ€¢ Demôtrasjon pÃ¥ rò sin nettside:mÿ
+núutexaspùusers/m9ú/best-5ıas/Woù-searchyş/fiüpos-9òmple.html
+
+Sek}í2 Mer om datakompreñ
+
+
+
+
+  â€¢ Enkl_úe form+(ó serie repeti^Zèerstattes med et antall:^`ù“ ABIIIéBBBCDEFFFGH \rightarrow&ü12I3ÿ3>zòI praksis littiôr kompliserti
+ÿd~ğkan jo vÃ¦re sifÿişvi4şri>şer5
+Cø vanligv`ípÃ¥ Â«bytesÂ», ikkeùtekstÂ»j
+ÿm'ükunncìkille mellom data ogştagş  oòâ€¢ Eks., brukvønegativ nñ for ukomprimerösekvenser:w
+ûABIIIèBBBCDEFFFGH \rightarrow tí[-2]AB[12]I[3]B[-3]/ÿFşGHW
+û25 bysøble reduuøt til 16|ş  -äâ€¢ Kan ikke komprimere ABABúâ€¦
+
+
+1şLeNó gjennom filaKûInputHşpiEÿspıoutlèHvis en lang nok sekvens|yü omiXÿ:lné“ dropp den, skriv hell+F÷referansej9ùformat:&ıpet\ûX tegF÷om vi har~ütt YCùdligere{÷â€¢ Hjelpiühvis*ıkvejşn {ılen)ı enún slikeüfera!>üSÃ¸kuûbakov}íi et sirkulÃ¦rt buf1kæOutput kan komprimeres vidú med H0òman-koding 
+
+
+lûMÃ¥ vWÿe>ıakt[ø“ ellers[övi ikke re{Yıtilpôrte strenger8
+øf.eks. 2Dú3 bytemâÃ… Â«seÂ» langt bakover i dataIõÃ¸mmen, girXıÃ¸rjòsjanse for Ã¥ eìfinne repetisjoner.
+
+Bü ogs-üleng_şkjJ+ÿd$
+ùpÃ¥virk|XûmatetSıfero_ûvÃ¥reWYİˆ— 1 byte kan peke 255 tegn bakover,ÿ2,ø65â€¯5361ÿ3]ş161ı7777ş21hõâ€¢ I blanteûvi ikhõkomprimere
+^îâ€“ MÃ¥ derfor ogs÷ha en mÃ¥rısi:-
+ıHerFCö X bytes uV	0üdata[
+ùSlik in[÷masjon tae÷plass!
+
+
+_óâ€¢ VurderingqD
+ùkal det]øvÃ¦re enül av
+ûstÃ¸rîukomprimert blokk?B
+êEvt. bakover-ref + heajö for korteBAöâ€¢ Det vi(a8ømÃ¥ altsıvÃ¦ülengPøenn saml2ıde Dÿ gş:
+OQÿ“&î bakover-referanse
+üheadc4)ÿuw	ùt blokkGùâ€¢ Vi 	z÷ikke svÃ¦(ükortîtrenger, det hjelp(ü!
+
+
+JòEksempeltekst:ø  Problewı, pø. Alltid
+û!
+DetlYúdagens-ÿ.A	ÿtö
+Ã¥ kompriQÿeQúatisk vÿ.uôâ€¢ Eksempelğ med avstander:
+%ÿ Y	ùr,^{10}rêer^{20}. Alltid p^{30},å!
+^{40}Dette er d^{50}agensAû^{60}Vÿ._û^{70}dÿt,ñ
+Ã¥ ^{80}kompriyüe^{9y
+îat^{100}isk tekst.õ10}
+
+  â€¢ Úgn, inkludert linjeskift og blanke.
+
+
+7øEksempelSõ med avstan@ÿ:%ô  Problemer,rü0} pì^{20}. Alltid p^{30},å!
+^{40}Dette er d^{50}agensAû^{60}Vÿ._û^{70}dÿt,ñ
+Ã¥ ^{80}kompriyüe^{9y
+îat^{100}isk tekst.ô10}
+
+  â€¢ K7ıt:
+ú  [12]gbêr, p[-11,8][8]. Alltidİ8,10][17]!
+Dette er dagens[-27,7][2/ü[-65;(ÿt"û
+Ã¥ kpüe[-3æ2]atisk tekst.
+
+  â€¢ FÃ¸r.
+øing, 110%ügn. %åMed 1 byte per tallkode, 84*ÿ
+O÷  Vi spar'Dú-84=26Jû, ell9ı23%xğse ogsÃ¥ Lz-demoBEqúFor hvk^íposisjon i input, m8ÿvløÃ¸ke ett[ûlengsyúmatch eÿ /÷bufferet.X	øil med nYô, sirkulÃ¦rt,÷stÃ¸rrelsO;	şTe_ğalle posisjoner,eıveryÿfë O\left(nm^{2}\right)|úI prak:ø gÃ¥r detğedre, sÃ¦rlig hvğdata varierer en)ÿlCİKan bruke Boyer-Moore tekstsÃ¸k forTò kjÃ¸retid.
+
+
+BåLempel og Ziv sin artikkel:$î  
+http://www.cs.dnÕ.edu/courses/spring03/cps296.5/papers/ziv_l_ö_1977_univğal_algorithm.pdffóâ€¢ Wikipediayxÿsyüen.wû.org/ş/LZñ\%E2\%80\%93Ziv:=RæLZ leser input, og skriveraøâ€“ bakoø-referan.
+ûsekveê med ukomprimerte tegngÿlyü oppu9	ıvidQhïHuffmannkoding
+
+
+YüLign}íLZ. Teoretisk sammeSõesjon. LettT÷Ã¥ speedeyÿ.E	şesD#ı ogütegnbüByggßn ordliste (dictionary) underveisNPû“ tiljêbegynne med, alle 1-by@şÂ«KşÂ»üFinn~ñ (lengst mulig)où, skrivzúnummer&Où fÃ¦rre,t1ù bits!)UWô“ lagre nyttqø = dette[pı+ nCúe tegn7øâ€¢ KompYøjon hvis*õne blir lenRøenn numr6äLZW+Huffman \rightarrowDeflaoó(brukt i zip)jş  pÿSPîksempel Â«lzwÂ»
+
+
+[-iò“ leser input,übyggóen dictionary ûskriv9öÂ«ordnumregaşNo7õÂ» forekommeúoftereTùn andre0úProgra#út finnw÷antall (f<ùvenser)Iù ulike rş, rtù“ skrivdöHuffmankodqúi stedW<64
+Hü somZûekommyıoftWôfÃ¥r kortereKı
+
+
+oöâ€¢ Kompri0q6ïenn LZ-algoritmeneì1. run-length coding}ğ2. Burrows-Wheelwçtransformasjon (hoveddel)rü3. M÷-To-Front.ıMFT)ÿ4qú igjenwô5. Huffmannkı
+
+
+bûâ€¢ Hsêen av BZ2 (blokksorterJşene,äDette steget komprimerer ikkúelv, mIøtransforZlş  Wò (typisk 900kBZ	ÿT2ürepe}lúekvenscó(som ord) til"[ütegnKÿR=	ÿ OıletNõe Ã¥ komprifü vidmÿ!7ñTransformasjone9ôreversibel (ı de@	ùing)
+
+
+xûBWT pcõordet Â«refuòrerâ—Â». Tegnû mark ø sluttenGNøRotasjonõ    Sortertkı---Cş  x
+NAP#&#!	şef#J#7F
+FF$ytjF	Y3%
+F
+}	Flyi|i!	#	{ÿry"iÿ
+myü BWTsÛ siste kolonne med tegn fra sortert l#÷, Â«rfrre}úeeerÂ»IğNÃ¥ har vi mange0şkeFÿvOïsiden av hverandrK;=û“ letdşe Dùkomprimÿm8ïrun-length coding5
+úSe ogswöbw brukt p@şdiaõse filer
+
+
+hóâ€¢ Hvordan ggõfra Â«rfrreöeeerÂ» tilşef~ıÂ»?=úVet at4äer siste kolonne i sortert l}ÿL%æa bestod av ulike rotasjonF÷samme orduwû“ all[	ır iaüholduşde/útegnenhõvar sortertL
+úfÃ¸rstO	ü mÃ¥`ştsşhaQÿ,A-õÂ«eeeefrrrrrşÂ»{şViHır nWştoför, i ei li{ôover rotasjo[
+ıkanñere sidelengs, nÿs9Nö blir fÃ¸rNû, og Bÿ  ûandre\
+ıdet{yõfortsatt enñl av lÃ¸sningen0
+ÿs'şer0şvi<ü, haı tol	økolonnenkùsÃ¥ kan:ùlegge pşsi.ü igjmd]ÿn9ştrT	òr. Repeter til%ûalle!mñâ€¢ Riktig rad &ùden somLşÂ« şÂ»|øplass
+
+
+?÷Hvordan gyıfra5ûrfrreZüeeer>xûefereıÂ»?|üLegg!_ıRot$ò mot hÃ¸yreSorkõÂ reÂ efÂ fÿrsÿr+#şÂ (OÿfX%tZ%v-fÿeZL?uï \Longleftarrow Dm	eZm%-%vZ)"zÿrZı
+
+
+d}ø Komprimvër ikke data, men forbaÿd7-÷Initialis/#útabell.ãd alle byte-verdier. t[0]=0, uÿ û1]=1,û2]=2,}ÿ¦WşLeQù ett ogıtegøra input~)û“ fintüet i}÷en, skriv-õdex til out8şlyV9úvi fane)ófÃ¸rste plassSö (move to |ø  front)Rıâ€¢j_ï: caaaaacbbbbbabaÿbuÿ #şn: ÿ Aø21000012ü2111ÿ1cútabellJô0: aca....cbjhmú1: bacnmû2: cb=ÿbINRcú3: dddc İâ€¢ Alle repeterte tegn blir til nuÿr+şKo",òende sekvenser3÷smÃ¥ tall]ûLett ÿgõandre veienòd utpakking
+
+
+eùEksempeCÿ òinn:caaaaacbbbÿbşbb H÷:21000012ş00ş10PTKõFrekv. fÃ¸rZÿ|üettewı---ÿ+ş--Yÿa^bÿ9	Zÿ0ş14 -ÿb-ÿ1Cş 3-ÿcZÿ2Z-ÿ
+^ââ€¢ FÃ¸r: like mange Â«aÂ» som
+ıbÂ»(üEtte)õovervekt av*ü0Â»,+õkan fÃ¥ kor'ÿeúde.
+
+
+iñBurrows-Wheelerb+	8şvi?ìr mange repetisjoner?Aæ“ 900â€¯kB blokkstÃ¸rrelseağMove-to-front gj û ulikPô om til null^<úDerettüfungár run-length coding veldig bra!s÷Huffmannk"øav det scóblir igjen
+
+
+21
+ùei fil,Wşukwúsamme Pøfor hele"ÿatÿE1õ kan bestÃ¥wûulike}ÿlCê(f.eks. norsk+engelsk)?Aı“ U,ıhar<ø bokstavrE|/
+òDe komprimerestü medsğHuffman-trÃ¦r
+
+
+j÷â€¢ Noen Qşsk93ÿnpüdataNôesjon og AI ósamme problem|
+ôAI: det kortx"şgr,ót som oppfÃ¸rAòeg intelligentCúâ€¢ Ã…$õdage repeteHî mÃ¸nstre (kan nyt\ü forgömpresjon) Aú  krev]Y
+ÿsYÿMø gir bedUE
+,ïDesimalene i \pi S÷et vanskeWô datasett Ã¥?ôimere. (mye qÿ ,ıriaTÿ)zşn:Z\ö“ vi kjennSòrekkeutviklingdûsom gvÿrMÿryÿ.8
+ŞEt program med endelig lengde, kan;	û hele^÷a. \inftyKõkompresjon![òâ€¢ Ei zipfil tûvanskYşÃ¥-şimTê, selv om det fins bedjXU
+ü ennN\^ò“ Hvis vi pakk`şutmúa, kanf
+Tùmed bz2D
+îÃ… oppdage at noe Jfÿ-;	÷t, og der<Xöbehandles Fú  sliksırev<ğintelligensâ€¦
+

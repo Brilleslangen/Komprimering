@@ -1,5 +1,4 @@
 import java.io.*;
-import java.nio.charset.StandardCharsets;
 import java.nio.file.Files;
 import java.nio.file.Paths;
 import java.util.*;
@@ -11,11 +10,10 @@ public class LZ77 {
 
 
     public static void main(String[] args) {
-        translateTest();
+        simulate("diverselyx.lyx");
     }
 
-    private static void opg8() {
-        String filename = "lorem.txt";
+    private static void simulate(String filename) {
         String compFilename = "compressed-" + filename.split("\\.")[0] + ".Z";
         String uncompFilename = "uncompressed-" + filename;
 
@@ -126,7 +124,7 @@ public class LZ77 {
 
     private static byte[] compress(byte[] input) {
         ArrayList<Byte> output = new ArrayList<>();
-        int noMatchCount = 0;
+        ArrayList<Byte> uncompressables = new ArrayList<>();
 
         // Setting pointer to start of stream
         for (int position = 0; position < input.length;) {
@@ -156,34 +154,36 @@ public class LZ77 {
                     break;
             }
 
-            boolean isLastEntry = position >= input.length-1;
-            boolean isMaxedOut = noMatchCount == Byte.MIN_VALUE;
+            boolean lastEntry = position >= input.length-1;
+            boolean maxedOut = -uncompressables.size() == Byte.MIN_VALUE;
 
-            // if a repeating sequence is found or last element of the input or uncompressed index maxed out
-            if (matchFound || isLastEntry || isMaxedOut) {
-                if (isLastEntry && !matchFound) {
-                    noMatchCount++;
-                    pointerLength++;
+            if (matchFound) {
+                // Transfer uncompressables
+                if (uncompressables.size() > 0) {
+                    transferUncompressables(output, uncompressables);
                 }
-                if (noMatchCount > 0 || isMaxedOut) {
-                    output.add((byte) -noMatchCount);
-                    for (int i = noMatchCount + pointerLength; i > pointerLength; i--) {
-                        output.add(input[position - i]);
-                    }
-                    noMatchCount = 0;
-                }
-                if (matchFound) {
-                    // Add matched sequence
-                    output.add((byte) pointerOffset);
-                    output.add((byte) pointerLength);
-                    continue;
-                }
+
+                // Add matched sequence
+                output.add((byte) pointerOffset);
+                output.add((byte) pointerLength);
+                continue;
             }
+
             // If no match
+            uncompressables.add(input[position]);
             position++;
-            noMatchCount++;
+
+            if (lastEntry || maxedOut) {
+                transferUncompressables(output, uncompressables);
+            }
         }
         return unwrap(output);
+    }
+
+    private static void transferUncompressables(ArrayList<Byte> output, ArrayList<Byte> uncompressables) {
+        output.add((byte) -uncompressables.size());
+        output.addAll(uncompressables);
+        uncompressables.clear();
     }
 
     private static byte[] unwrap(ArrayList<Byte> bigBytes) {
@@ -194,3 +194,4 @@ public class LZ77 {
         return bytes;
     }
 }
+
