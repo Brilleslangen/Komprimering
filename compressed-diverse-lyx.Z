@@ -1,0 +1,3637 @@
+½#LyX 2.3 created this file. For more info see http://www.lyx.org/
+\
+æformat 544
+\begin_documentíheader
+\save_transië_properties true
+\ori?õ unavailablìtextclass beamerntnuhþpr&ìusepackage{colortbl}Ütheme[slogan=norsk,style=plain]{NTNU*òlet\Bbbk\relaxPúmtpro2Nýendrðoptions aspectraû=1610v÷_default_&üfals5çbegin_modules
+logicalmkup^ú\maintì_unincluded_childrenLòlanguage norsk
+û_packàdefault
+\inputencoding auto
+\fon
+úglobalø_roman ">û" "OpuûSans""ÿs!õTimes New R<'ötypewriterNXnömath "autoje_ø_family nò
+\use_non_tex_gús truesùsc falsýosfþsf"ùale 100kÿt9e÷microtypeayódash_ligaturezîgraphics default
+\	ò_output_format
+ûsync mòbibtex_commandF
+ýindåpaperfontsize 12
+\spacing söle
+\use_hy&øref fals62`	'ôgeometry tru:Mòkage amsmath 0üsymbøcancel 1DûesintBVüdots-nütoolûhchem\þst{ÿrtøstmaryrd_öundertildeyïcite_engine basicß_type default
+\biblio_style plainsõtopic falseoùindicesèpaperorientation portraiVósuppress_dateCøjustific-ýtruWýrefÿ0{úmintedqõex RegisterWÿhbëcut idx
+\color #00800;üend_1ïecnumdepth 2
+\toc	ôparagraph_seòtion skip
+\def	ü medùis_mathVýnt d[ôbering_side 7èault
+\quotes_style swissTùynamic_Còpapercolumns 1I
+üpageF\	ûtracksüchanò false
+\outputöhtml_math_ x÷css_as_fi\÷be_strictTéend_header
+
+\begin_body	ýlaywà Title
+TekstsÃ¸k, DatakompresjonH,;ìAuthor
+Helge Hafting0öInstitute
+
+ùt for drñteknologi og inúmatikkPðSection
+TekstsÃ¸-ûFrameAäinset Argument 4
+status openfùPlain LUýAnvcõelser for t{eÿ
+O	tùSeparat;ûlatex-G:ûdeepe(HdË Itemize
+FritekstsÃ¸k i dokumenter, nettsider og ligniÿebTøatabaser<$ÿS4úemotor0+õ etter repe÷te strengîfor datakompresjonU$ôDNA-matching0=þdeiÿr<øStandardSüinse÷eparator ûbreakPÿ
+P]	QûFrameNêArgument 4
+status open9ùPlain LUëEn enkel naiv algoritXycÿ
+M	rñSeparator latex-G:ûdeepe(Hdä Description
+Tekst: rabarbrarøspace \hø*{\fill}uö(lengde n)qöSÃ¸keord: o;ÿmoüOnlyZêArgument 1
+status open8ùPlain LTý1-6erPñ
+
+Skyv sÃ¸keordaëlangs teksten, se om úpasseri>ö Separator7ýtex\v:üdeepH
+ñ Itemize
+tegn srnò, vises med 
+\ÿiúbold
+f~úskrifteWôfÃ¸rste feilMòemph on
+kursivE$ôdobbeltlÃ¸kkKþorFníinset Formula $n-m$Qï
+
+ posisjoner, og86øtegn i sqøeordet.
+sXûlayouYeúdeeperT÷ StandardköSeparator ûbreakr]QüOnlyMêArgument 1
+status open8ùPlain LTý7-7eôHele greia, kÚFormula $O\left(n\cdot m\right),\Omegaÿ$\v]÷ Standardtìlex Only
+status open;ùPlain LW?öArgument 1@)÷
+1-1
+\end^mPÿ
+z	_óTabular
+<lyxtä version="3" rows="2" columnò9">
+<features 4îvalignment="middle&4ÿ ÿc"üer" 0ñtop" width="0pt96ý1em99rrrrrrrýrowxýellv%öbottomlineNïrue" usebox="noneQî\begin_inset Text
+òlayout Plain Ló
+ForsÃ¸k
+\end!0Aö
+</cell>
+<ó alignment="cûer" vñtop" bottomline÷rue" leftëusebox="none">
+\beginpú Text
+òlayout Plain Lù
+r
+\end*;ö
+</cell>
+<ó alignment="cûer" vñtop" bottomline÷rue" leftëusebox="none">
+\beginpú Text
+òlayout Plain Lù
+a
+\end*;ö
+</cell>
+<ó alignment="cûer" vñtop" bottomline÷rue" leftëusebox="none">
+\beginpú Text
+òlayout Plain Lù
+b
+\end*;ö
+</cell>
+<ó alignment="cûer" vñtop" bottomline÷rue" leftëusebox="none">
+\beginpú Text
+òlayout Plain Lù
+a
+\end*;ö
+</cell>
+<ó alignment="cûer" vñtop" bottomline÷rue" leftëusebox="none">
+\beginpú Text
+òlayout Plain Lù
+r
+\end*;ö
+</cell>
+<ó alignment="cûer" vñtop" bottomline÷rue" leftëusebox="none">
+\beginpú Text
+òlayout Plain Lù
+b
+\end*;ö
+</cell>
+<ó alignment="cûer" vñtop" bottomline÷rue" leftëusebox="none">
+\beginpú Text
+òlayout Plain Lù
+r
+\end*;ö
+</cell>
+<ó alignment="cûer" vñtop" bottomline÷rue" leftëusebox="none">
+\beginpú Text
+òlayout Plain Lù
+a
+\end*;ø
+</cell>ýrowó alignment="cûer" vætop" usebox="none">
+\begin[ü Texl{ø Plain Lù
+0
+\end*;ö
+</cell>
+<ÿ uÿc{ûer" vótop" leftlineærue" usebox="none">
+\begin^ü Texo~ø Plain L÷emph on
+bþnd%Eö
+</cell>
+<ó alignment="cûer" vótop" leftlineærue" usebox="none">
+\begin^ü Texo~ø Plain Lù
+r
+\end*;ö
+</cell>
+<ó alignment="cûer" vótop" leftlineærue" usebox="none">
+\begin^ü Texo~ø Plain Lù
+a
+\end*;ö
+</cell>
+<ó alignment="cûer" vótop" leftlineærue" usebox="none">
+\begin^ü Texo~ø Plain Lýend:ö
+</cell>
+<ó alignment="cûer" vótop" leftlineærue" usebox="none">
+\begin^ü Tex|~ø Plain Lýend:ö
+</cell>
+<ó alignment="cûer" vótop" leftlineærue" usebox="none">
+\begin^ü Tex|~ø Plain Lýend:ö
+</cell>
+<ó alignment="cûer" vótop" leftlineærue" usebox="none">
+\begin^ü Tex|~ø Plain Lýend:ö
+</cell>
+<ó alignment="cûer" vótop" leftlineærue" usebox="none">
+\begin^ü Tex|~ø Plain Lýend:ø
+</cell>ýrowõlyxtabular>)Cy	Rê Flex Only
+status open$	@ø Plain LM?öArgument 1@)÷
+2-2
+\end^mPÿ
+z	_óTabular
+<lyxtä version="3" rows="2" columnò9">
+<features 4îvalignment="middle&4ÿ ÿc"üer" 0ýtop--ô" width="1em99rrrrrrrýrowxýellv%öbottomlineNïrue" usebox="noneQî\begin_inset Text
+òlayout Plain Ló
+ForsÃ¸k
+\end!0Aö
+</cell>
+<ó alignment="cûer" vñtop" bottomline÷rue" leftëusebox="none">
+\beginpú Text
+òlayout Plain Lù
+r
+\end*;ö
+</cell>
+<ó alignment="cûer" vñtop" bottomline÷rue" leftëusebox="none">
+\beginpú Text
+òlayout Plain Lù
+a
+\end*;ö
+</cell>
+<ó alignment="cûer" vñtop" bottomline÷rue" leftëusebox="none">
+\beginpú Text
+òlayout Plain Lù
+b
+\end*;ö
+</cell>
+<ó alignment="cûer" vñtop" bottomline÷rue" leftëusebox="none">
+\beginpú Text
+òlayout Plain Lù
+a
+\end*;ö
+</cell>
+<ó alignment="cûer" vñtop" bottomline÷rue" leftëusebox="none">
+\beginpú Text
+òlayout Plain Lù
+r
+\end*;ö
+</cell>
+<ó alignment="cûer" vñtop" bottomline÷rue" leftëusebox="none">
+\beginpú Text
+òlayout Plain Lù
+b
+\end*;ö
+</cell>
+<ó alignment="cûer" vñtop" bottomline÷rue" leftëusebox="none">
+\beginpú Text
+òlayout Plain Lù
+r
+\end*;ö
+</cell>
+<ó alignment="cûer" vñtop" bottomline÷rue" leftëusebox="none">
+\beginpú Text
+òlayout Plain Lù
+a
+\end*;ø
+</cell>ýrowó alignment="cûer" vætop" usebox="none">
+\begin[ü Texl{ø Plain Lù
+1
+\end*;ö
+</cell>
+<ÿ uÿc{ûer" vótop" leftlineærue" usebox="none">
+\begin^ü Texo~ø Plain Lýend:ö
+</cell>
+<ó alignment="cûer" vótop" leftlineærue" usebox="none">
+\begin^ü Tex|~ø Plain L÷emph on
+bþnd%Eö
+</cell>
+<ó alignment="cûer" vótop" leftlineærue" usebox="none">
+\begin^ü Texo~ø Plain Lù
+r
+\end*;ö
+</cell>
+<ó alignment="cûer" vótop" leftlineærue" usebox="none">
+\begin^ü Texo~ø Plain Lîseries bold
+a
+\end)8Iö
+</cell>
+<ó alignment="cûer" vótop" leftlineærue" usebox="none">
+\begin^ü Texo~ø Plain Lýend:ö
+</cell>
+<ó alignment="cûer" vótop" leftlineærue" usebox="none">
+\begin^ü Tex|~ø Plain Lýend:ö
+</cell>
+<ó alignment="cûer" vótop" leftlineærue" usebox="none">
+\begin^ü Tex|~ø Plain Lýend:ö
+</cell>
+<ó alignment="cûer" vótop" leftlineærue" usebox="none">
+\begin^ü Tex|~ø Plain Lýend:ø
+</cell>ýrowõlyxtabular>)Cy	Rê Flex Only
+status open$	@ø Plain LM?öArgument 1@)÷
+3-3
+\end^mPÿ
+z	_óTabular
+<lyxtä version="3" rows="2" columnò9">
+<features 4îvalignment="middle&4ÿ ÿc"üer" 0ýtop--ô" width="1em99rrrrrrrýrowxýellv%öbottomlineNïrue" usebox="noneQî\begin_inset Text
+òlayout Plain Ló
+ForsÃ¸k
+\end!0Aö
+</cell>
+<ó alignment="cûer" vñtop" bottomline÷rue" leftëusebox="none">
+\beginpú Text
+òlayout Plain Lù
+r
+\end*;ö
+</cell>
+<ó alignment="cûer" vñtop" bottomline÷rue" leftëusebox="none">
+\beginpú Text
+òlayout Plain Lù
+a
+\end*;ö
+</cell>
+<ó alignment="cûer" vñtop" bottomline÷rue" leftëusebox="none">
+\beginpú Text
+òlayout Plain Lù
+b
+\end*;ö
+</cell>
+<ó alignment="cûer" vñtop" bottomline÷rue" leftëusebox="none">
+\beginpú Text
+òlayout Plain Lù
+a
+\end*;ö
+</cell>
+<ó alignment="cûer" vñtop" bottomline÷rue" leftëusebox="none">
+\beginpú Text
+òlayout Plain Lù
+r
+\end*;ö
+</cell>
+<ó alignment="cûer" vñtop" bottomline÷rue" leftëusebox="none">
+\beginpú Text
+òlayout Plain Lù
+b
+\end*;ö
+</cell>
+<ó alignment="cûer" vñtop" bottomline÷rue" leftëusebox="none">
+\beginpú Text
+òlayout Plain Lù
+r
+\end*;ö
+</cell>
+<ó alignment="cûer" vñtop" bottomline÷rue" leftëusebox="none">
+\beginpú Text
+òlayout Plain Lù
+a
+\end*;ø
+</cell>ýrowó alignment="cûer" vætop" usebox="none">
+\begin[ü Texl{ø Plain Lù
+2
+\end*;ö
+</cell>
+<ÿ uÿc{ûer" vótop" leftlineærue" usebox="none">
+\begin^ü Texo~ø Plain Lýend:ö
+</cell>
+<ó alignment="cûer" vótop" leftlineærue" usebox="none">
+\begin^ü Tex|~ø Plain Lýend:ö
+</cell>
+<ó alignment="cûer" vótop" leftlineærue" usebox="none">
+\begin^ü Tex|~ø Plain Lîseries bold
+b
+\end)8Iö
+</cell>
+<ó alignment="cûer" vótop" leftlineærue" usebox="none">
+\begin^ü Texo~ø Plain L÷emph on
+rþnd%Eö
+</cell>
+<ó alignment="cûer" vótop" leftlineærue" usebox="none">
+\begin^ü Texo~ø Plain Lù
+a
+\end*;ö
+</cell>
+<ó alignment="cûer" vótop" leftlineærue" usebox="none">
+\begin^ü Texo~ø Plain Lýend:ö
+</cell>
+<ó alignment="cûer" vótop" leftlineærue" usebox="none">
+\begin^ü Tex|~ø Plain Lýend:ö
+</cell>
+<ó alignment="cûer" vótop" leftlineærue" usebox="none">
+\begin^ü Tex|~ø Plain Lýend:ø
+</cell>ýrowõlyxtabular>)Cy	Rê Flex Only
+status open$	@ø Plain LM?öArgument 1@)÷
+4-4
+\end^mPÿ
+z	_óTabular
+<lyxtä version="3" rows="2" columnò9">
+<features 4îvalignment="middle&4ÿ ÿc"üer" 0ýtop--ô" width="1em99rrrrrrrýrowxýellv%öbottomlineNïrue" usebox="noneQî\begin_inset Text
+òlayout Plain Ló
+ForsÃ¸k
+\end!0Aö
+</cell>
+<ó alignment="cûer" vñtop" bottomline÷rue" leftëusebox="none">
+\beginpú Text
+òlayout Plain Lù
+r
+\end*;ö
+</cell>
+<ó alignment="cûer" vñtop" bottomline÷rue" leftëusebox="none">
+\beginpú Text
+òlayout Plain Lù
+a
+\end*;ö
+</cell>
+<ó alignment="cûer" vñtop" bottomline÷rue" leftëusebox="none">
+\beginpú Text
+òlayout Plain Lù
+b
+\end*;ö
+</cell>
+<ó alignment="cûer" vñtop" bottomline÷rue" leftëusebox="none">
+\beginpú Text
+òlayout Plain Lù
+a
+\end*;ö
+</cell>
+<ó alignment="cûer" vñtop" bottomline÷rue" leftëusebox="none">
+\beginpú Text
+òlayout Plain Lù
+r
+\end*;ö
+</cell>
+<ó alignment="cûer" vñtop" bottomline÷rue" leftëusebox="none">
+\beginpú Text
+òlayout Plain Lù
+b
+\end*;ö
+</cell>
+<ó alignment="cûer" vñtop" bottomline÷rue" leftëusebox="none">
+\beginpú Text
+òlayout Plain Lù
+r
+\end*;ö
+</cell>
+<ó alignment="cûer" vñtop" bottomline÷rue" leftëusebox="none">
+\beginpú Text
+òlayout Plain Lù
+a
+\end*;ø
+</cell>ýrowó alignment="cûer" vætop" usebox="none">
+\begin[ü Texl{ø Plain Lù
+3
+\end*;ö
+</cell>
+<ÿ uÿc{ûer" vótop" leftlineærue" usebox="none">
+\begin^ü Texo~ø Plain Lýend:ö
+</cell>
+<ó alignment="cûer" vótop" leftlineærue" usebox="none">
+\begin^ü Tex|~ø Plain Lýend:ö
+</cell>
+<ó alignment="cûer" vótop" leftlineærue" usebox="none">
+\begin^ü Tex|~ø Plain Lýend:ö
+</cell>
+<ó alignment="cûer" vótop" leftlineærue" usebox="none">
+\begin^ü Tex|~ø Plain L÷emph on
+bþnd%Eö
+</cell>
+<ó alignment="cûer" vótop" leftlineærue" usebox="none">
+\begin^ü Texo~ø Plain Lîseries bold
+r
+\end)8Iö
+</cell>
+<ó alignment="cûer" vótop" leftlineærue" usebox="none">
+\begin^ü Texo~ø Plain Lù
+a
+\end*;ö
+</cell>
+<ó alignment="cûer" vótop" leftlineærue" usebox="none">
+\begin^ü Texo~ø Plain Lýend:ö
+</cell>
+<ó alignment="cûer" vótop" leftlineærue" usebox="none">
+\begin^ü Tex|~ø Plain Lýend:ø
+</cell>ýrowõlyxtabular>)Cy	Rê Flex Only
+status open$	@ø Plain LM?öArgument 1@)÷
+5-5
+\end^mPÿ
+z	_óTabular
+<lyxtä version="3" rows="2" columnò9">
+<features 4îvalignment="middle&4ÿ ÿc"üer" 0ýtop--ô" width="1em99rrrrrrrýrowxýellv%öbottomlineNïrue" usebox="noneQî\begin_inset Text
+òlayout Plain Ló
+ForsÃ¸k
+\end!0Aö
+</cell>
+<ó alignment="cûer" vñtop" bottomline÷rue" leftëusebox="none">
+\beginpú Text
+òlayout Plain Lù
+r
+\end*;ö
+</cell>
+<ó alignment="cûer" vñtop" bottomline÷rue" leftëusebox="none">
+\beginpú Text
+òlayout Plain Lù
+a
+\end*;ö
+</cell>
+<ó alignment="cûer" vñtop" bottomline÷rue" leftëusebox="none">
+\beginpú Text
+òlayout Plain Lù
+b
+\end*;ö
+</cell>
+<ó alignment="cûer" vñtop" bottomline÷rue" leftëusebox="none">
+\beginpú Text
+òlayout Plain Lù
+a
+\end*;ö
+</cell>
+<ó alignment="cûer" vñtop" bottomline÷rue" leftëusebox="none">
+\beginpú Text
+òlayout Plain Lù
+r
+\end*;ö
+</cell>
+<ó alignment="cûer" vñtop" bottomline÷rue" leftëusebox="none">
+\beginpú Text
+òlayout Plain Lù
+b
+\end*;ö
+</cell>
+<ó alignment="cûer" vñtop" bottomline÷rue" leftëusebox="none">
+\beginpú Text
+òlayout Plain Lù
+r
+\end*;ö
+</cell>
+<ó alignment="cûer" vñtop" bottomline÷rue" leftëusebox="none">
+\beginpú Text
+òlayout Plain Lù
+a
+\end*;ø
+</cell>ýrowó alignment="cûer" vætop" usebox="none">
+\begin[ü Texl{ø Plain Lù
+4
+\end*;ö
+</cell>
+<ÿ uÿc{ûer" vótop" leftlineærue" usebox="none">
+\begin^ü Texo~ø Plain Lýend:ö
+</cell>
+<ó alignment="cûer" vótop" leftlineærue" usebox="none">
+\begin^ü Tex|~ø Plain Lýend:ö
+</cell>
+<ó alignment="cûer" vótop" leftlineærue" usebox="none">
+\begin^ü Tex|~ø Plain Lýend:ö
+</cell>
+<ó alignment="cûer" vótop" leftlineærue" usebox="none">
+\begin^ü Tex|~ø Plain Lýend:ö
+</cell>
+<ó alignment="cûer" vótop" leftlineærue" usebox="none">
+\begin^ü Tex|~ø Plain L÷emph on
+bþnd%Eö
+</cell>
+<ó alignment="cûer" vótop" leftlineærue" usebox="none">
+\begin^ü Texo~ø Plain Lù
+r
+\end*;ö
+</cell>
+<ó alignment="cûer" vótop" leftlineærue" usebox="none">
+\begin^ü Texo~ø Plain Lù
+a
+\end*;ö
+</cell>
+<ó alignment="cûer" vótop" leftlineærue" usebox="none">
+\begin^ü Texo~ø Plain Lýend:ø
+</cell>ýrowõlyxtabular>)Cy	Rê Flex Only
+status open$	@ø Plain LM?öArgument 1@)÷
+6-6
+\end^mPÿ
+z	_óTabular
+<lyxtä version="3" rows="2" columnò9">
+<features 4îvalignment="middle&4ÿ ÿc"üer" 0ýtop--ô" width="1em99rrrrrrrýrowxýellv%öbottomlineNïrue" usebox="noneQî\begin_inset Text
+òlayout Plain Ló
+ForsÃ¸k
+\end!0Aö
+</cell>
+<ó alignment="cûer" vñtop" bottomline÷rue" leftëusebox="none">
+\beginpú Text
+òlayout Plain Lù
+r
+\end*;ö
+</cell>
+<ó alignment="cûer" vñtop" bottomline÷rue" leftëusebox="none">
+\beginpú Text
+òlayout Plain Lù
+a
+\end*;ö
+</cell>
+<ó alignment="cûer" vñtop" bottomline÷rue" leftëusebox="none">
+\beginpú Text
+òlayout Plain Lù
+b
+\end*;ö
+</cell>
+<ó alignment="cûer" vñtop" bottomline÷rue" leftëusebox="none">
+\beginpú Text
+òlayout Plain Lù
+a
+\end*;ö
+</cell>
+<ó alignment="cûer" vñtop" bottomline÷rue" leftëusebox="none">
+\beginpú Text
+òlayout Plain Lù
+r
+\end*;ö
+</cell>
+<ó alignment="cûer" vñtop" bottomline÷rue" leftëusebox="none">
+\beginpú Text
+òlayout Plain Lù
+b
+\end*;ö
+</cell>
+<ó alignment="cûer" vñtop" bottomline÷rue" leftëusebox="none">
+\beginpú Text
+òlayout Plain Lù
+r
+\end*;ö
+</cell>
+<ó alignment="cûer" vñtop" bottomline÷rue" leftëusebox="none">
+\beginpú Text
+òlayout Plain Lù
+a
+\end*;ø
+</cell>ýrowó alignment="cûer" vætop" usebox="none">
+\begin[ü Texl{ø Plain Lù
+5
+\end*;ö
+</cell>
+<ÿ uÿc{ûer" vótop" leftlineærue" usebox="none">
+\begin^ü Texo~ø Plain Lýend:ö
+</cell>
+<ó alignment="cûer" vótop" leftlineærue" usebox="none">
+\begin^ü Tex|~ø Plain Lýend:ö
+</cell>
+<ó alignment="cûer" vótop" leftlineærue" usebox="none">
+\begin^ü Tex|~ø Plain Lýend:ö
+</cell>
+<ó alignment="cûer" vótop" leftlineærue" usebox="none">
+\begin^ü Tex|~ø Plain Lýend:ö
+</cell>
+<ó alignment="cûer" vótop" leftlineærue" usebox="none">
+\begin^ü Tex|~ø Plain Lýend:ö
+</cell>
+<ó alignment="cûer" vótop" leftlineærue" usebox="none">
+\begin^ü Tex|~ø Plain Lîseries bold
+b
+\end)8Iö
+</cell>
+<ó alignment="cûer" vótop" leftlineærue" usebox="none">
+\begin^ü Texo~ø Plain Lîseries bold
+r
+\end)8Iö
+</cell>
+<ó alignment="cûer" vótop" leftlineærue" usebox="none">
+\begin^ü Texo~ø Plain Lîseries bold
+a
+\end)8Iø
+</cell>ýrowõlyxtabular>)6ClûbeginRê Flex Only
+status open$	@ø Plain LM?öArgument 1@)÷
+7-7
+\end^mPÿ
+z	_óTabular
+<lyxtä version="3" rows="7" columnò9">
+<features 4îvalignment="middle&4ÿ ÿc"üer" 0ýtop--ZZZZZZZ1ýrow`ýell^$õ bottomlineoïrue" usebox="none~î\begin_inset Text
+òlayout Plain Ló
+ForsÃ¸k
+\end!0Aö
+</cell>
+<ó alignment="cûer" vñtop" bottomline÷rue" leftëusebox="none">
+\beginpú Text
+òlayout Plain Lù
+r
+\end*;ö
+</cell>
+<ó alignment="cûer" vñtop" bottomline÷rue" leftëusebox="none">
+\beginpú Text
+òlayout Plain Lù
+a
+\end*;ö
+</cell>
+<ó alignment="cûer" vñtop" bottomline÷rue" leftëusebox="none">
+\beginpú Text
+òlayout Plain Lù
+b
+\end*;ö
+</cell>
+<ó alignment="cûer" vñtop" bottomline÷rue" leftëusebox="none">
+\beginpú Text
+òlayout Plain Lù
+a
+\end*;ö
+</cell>
+<ó alignment="cûer" vñtop" bottomline÷rue" leftëusebox="none">
+\beginpú Text
+òlayout Plain Lù
+r
+\end*;ö
+</cell>
+<ó alignment="cûer" vñtop" bottomline÷rue" leftëusebox="none">
+\beginpú Text
+òlayout Plain Lù
+b
+\end*;ö
+</cell>
+<ó alignment="cûer" vñtop" bottomline÷rue" leftëusebox="none">
+\beginpú Text
+òlayout Plain Lù
+r
+\end*;ö
+</cell>
+<ó alignment="cûer" vñtop" bottomline÷rue" leftëusebox="none">
+\beginpú Text
+òlayout Plain Lù
+a
+\end*;ø
+</cell>ýrowó alignment="cûer" vætop" usebox="none">
+\begin[ü Texl{ø Plain Lù
+0
+\end*;ö
+</cell>
+<ÿ uÿc{ûer" vótop" leftlineærue" usebox="none">
+\begin^ü Texo~ø Plain L÷emph on
+bþnd%Eö
+</cell>
+<ó alignment="cûer" vótop" leftlineærue" usebox="none">
+\begin^ü Texo~ø Plain Lù
+r
+\end*;ö
+</cell>
+<ó alignment="cûer" vótop" leftlineærue" usebox="none">
+\begin^ü Texo~ø Plain Lù
+a
+\end*;ö
+</cell>
+<ó alignment="cûer" vótop" leftlineærue" usebox="none">
+\begin^ü Texo~ø Plain Lýend:ö
+</cell>
+<ó alignment="cûer" vótop" leftlineærue" usebox="none">
+\begin^ü Tex|~ø Plain Lýend:ö
+</cell>
+<ó alignment="cûer" vótop" leftlineærue" usebox="none">
+\begin^ü Tex|~ø Plain Lýend:ö
+</cell>
+<ó alignment="cûer" vótop" leftlineærue" usebox="none">
+\begin^ü Tex|~ø Plain Lýend:ö
+</cell>
+<ó alignment="cûer" vótop" leftlineærue" usebox="none">
+\begin^ü Tex|~ø Plain Lýend:ø
+</cell>ýrowó alignment="cûer" vætop" usebox="none">
+\begin[ü Texy{ø Plain Lù
+1
+\end*;ö
+</cell>
+<ÿ uÿc{ûer" vótop" leftlineærue" usebox="none">
+\begin^ü Texo~ø Plain Lýend:ö
+</cell>
+<ó alignment="cûer" vótop" leftlineærue" usebox="none">
+\begin^ü Tex|~ø Plain L÷emph on
+bþnd%Eö
+</cell>
+<ó alignment="cûer" vótop" leftlineærue" usebox="none">
+\begin^ü Texo~ø Plain Lù
+r
+\end*;ö
+</cell>
+<ó alignment="cûer" vótop" leftlineærue" usebox="none">
+\begin^ü Texo~ø Plain Lîseries bold
+a
+\end)8Iö
+</cell>
+<ó alignment="cûer" vótop" leftlineærue" usebox="none">
+\begin^ü Texo~ø Plain Lýend:ö
+</cell>
+<ó alignment="cûer" vótop" leftlineærue" usebox="none">
+\begin^ü Tex|~ø Plain Lýend:ö
+</cell>
+<ó alignment="cûer" vótop" leftlineærue" usebox="none">
+\begin^ü Tex|~ø Plain Lýend:ö
+</cell>
+<ó alignment="cûer" vótop" leftlineærue" usebox="none">
+\begin^ü Tex|~ø Plain Lýend:ø
+</cell>ýrowó alignment="cûer" vætop" usebox="none">
+\begin[ü Texy{ø Plain Lù
+2
+\end*;ö
+</cell>
+<ÿ uÿc{ûer" vótop" leftlineærue" usebox="none">
+\begin^ü Texo~ø Plain Lýend:ö
+</cell>
+<ó alignment="cûer" vótop" leftlineærue" usebox="none">
+\begin^ü Tex|~ø Plain Lýend:ö
+</cell>
+<ó alignment="cûer" vótop" leftlineærue" usebox="none">
+\begin^ü Tex|~ø Plain Lîseries bold
+b
+\end)8Iö
+</cell>
+<ó alignment="cûer" vótop" leftlineærue" usebox="none">
+\begin^ü Texo~ø Plain L÷emph on
+rþnd%Eö
+</cell>
+<ó alignment="cûer" vótop" leftlineærue" usebox="none">
+\begin^ü Texo~ø Plain Lù
+a
+\end*;ö
+</cell>
+<ó alignment="cûer" vótop" leftlineærue" usebox="none">
+\begin^ü Texo~ø Plain Lýend:ö
+</cell>
+<ó alignment="cûer" vótop" leftlineærue" usebox="none">
+\begin^ü Tex|~ø Plain Lýend:ö
+</cell>
+<ó alignment="cûer" vótop" leftlineærue" usebox="none">
+\begin^ü Tex|~ø Plain Lýend:ø
+</cell>ýrowó alignment="cûer" vætop" usebox="none">
+\begin[ü Texy{ø Plain Lù
+3
+\end*;ö
+</cell>
+<ÿ uÿc{ûer" vótop" leftlineærue" usebox="none">
+\begin^ü Texo~ø Plain Lýend:ö
+</cell>
+<ó alignment="cûer" vótop" leftlineærue" usebox="none">
+\begin^ü Tex|~ø Plain Lýend:ö
+</cell>
+<ó alignment="cûer" vótop" leftlineærue" usebox="none">
+\begin^ü Tex|~ø Plain Lýend:ö
+</cell>
+<ó alignment="cûer" vótop" leftlineærue" usebox="none">
+\begin^ü Tex|~ø Plain L÷emph on
+bþnd%Eö
+</cell>
+<ó alignment="cûer" vótop" leftlineærue" usebox="none">
+\begin^ü Texo~ø Plain Lîseries bold
+r
+\end)8Iö
+</cell>
+<ó alignment="cûer" vótop" leftlineærue" usebox="none">
+\begin^ü Texo~ø Plain Lù
+a
+\end*;ö
+</cell>
+<ó alignment="cûer" vótop" leftlineærue" usebox="none">
+\begin^ü Texo~ø Plain Lýend:ö
+</cell>
+<ó alignment="cûer" vótop" leftlineærue" usebox="none">
+\begin^ü Tex|~ø Plain Lýend:ø
+</cell>ýrowó alignment="cûer" vætop" usebox="none">
+\begin[ü Texy{ø Plain Lù
+4
+\end*;ö
+</cell>
+<ÿ uÿc{ûer" vótop" leftlineærue" usebox="none">
+\begin^ü Texo~ø Plain Lýend:ö
+</cell>
+<ó alignment="cûer" vótop" leftlineærue" usebox="none">
+\begin^ü Tex|~ø Plain Lýend:ö
+</cell>
+<ó alignment="cûer" vótop" leftlineærue" usebox="none">
+\begin^ü Tex|~ø Plain Lýend:ö
+</cell>
+<ó alignment="cûer" vótop" leftlineærue" usebox="none">
+\begin^ü Tex|~ø Plain Lýend:ö
+</cell>
+<ó alignment="cûer" vótop" leftlineærue" usebox="none">
+\begin^ü Tex|~ø Plain L÷emph on
+bþnd%Eö
+</cell>
+<ó alignment="cûer" vótop" leftlineærue" usebox="none">
+\begin^ü Texo~ø Plain Lù
+r
+\end*;ö
+</cell>
+<ó alignment="cûer" vótop" leftlineærue" usebox="none">
+\begin^ü Texo~ø Plain Lù
+a
+\end*;ö
+</cell>
+<ó alignment="cûer" vótop" leftlineærue" usebox="none">
+\begin^ü Texo~ø Plain Lýend:ø
+</cell>ýrowó alignment="cûer" vætop" usebox="none">
+\begin[ü Texy{ø Plain Lù
+5
+\end*;ö
+</cell>
+<ÿ uÿc{ûer" vótop" leftlineærue" usebox="none">
+\begin^ü Texo~ø Plain Lýend:ö
+</cell>
+<ó alignment="cûer" vótop" leftlineærue" usebox="none">
+\begin^ü Tex|~ø Plain Lýend:ö
+</cell>
+<ó alignment="cûer" vótop" leftlineærue" usebox="none">
+\begin^ü Tex|~ø Plain Lýend:ö
+</cell>
+<ó alignment="cûer" vótop" leftlineærue" usebox="none">
+\begin^ü Tex|~ø Plain Lýend:ö
+</cell>
+<ó alignment="cûer" vótop" leftlineærue" usebox="none">
+\begin^ü Tex|~ø Plain Lýend:ö
+</cell>
+<ó alignment="cûer" vótop" leftlineærue" usebox="none">
+\begin^ü Tex|~ø Plain Lîseries bold
+b
+\end)8Iö
+</cell>
+<ó alignment="cûer" vótop" leftlineærue" usebox="none">
+\begin^ü Texo~ø Plain Lîseries bold
+r
+\end)8Iö
+</cell>
+<ó alignment="cûer" vótop" leftlineærue" usebox="none">
+\begin^ü Texo~ø Plain Lîseries bold
+a
+\end)8Iø
+</cell>ýrowõlyxtabular>)6Códeeper
+\beginx÷ StandardYõ Separator ûbreakwQûFrameNêArgument 4
+status open9ùPlain LUöBoyer-MoorLmzWÿ
+z	fñSeparator latex-G{ûdeepe(Hdð Itemize
+Se pÃ¥ sômph on
+sisteédefault
+tegn i sÃ¸ketek"øn fÃ¸rstrdüHvisKût ikkoôasser, flyttSvíon
+sÃ¥ langt vi kanúdefauli
+ýinsW÷Separator3ýtexIþndÿ
+-ûlayou:
+ûdeepe(H÷ Standard_ûTabulTû<lyxtä version="3" rows="5" columnò9">
+<features 4îvalignment="middle&4ÿ ÿc"üer" 0ýtop--ZZZZZZZ1ýrow`ýell^$õ bottomlineoïrue" usebox="none~î\begin_inset Text
+òlayout Plain Lýend:ö
+</cell>
+<ó alignment="cûer" vñtop" bottomline÷rue" leftëusebox="none">
+\beginpú Text
+òlayout Plain Lù
+r
+\end*;ö
+</cell>
+<ó alignment="cûer" vñtop" bottomline÷rue" leftëusebox="none">
+\beginpú Text
+òlayout Plain Lù
+a
+\end*;ö
+</cell>
+<ó alignment="cûer" vñtop" bottomline÷rue" leftëusebox="none">
+\beginpú Text
+òlayout Plain Lù
+b
+\end*;ö
+</cell>
+<ó alignment="cûer" vñtop" bottomline÷rue" leftëusebox="none">
+\beginpú Text
+òlayout Plain Lù
+a
+\end*;ö
+</cell>
+<ó alignment="cûer" vñtop" bottomline÷rue" leftëusebox="none">
+\beginpú Text
+òlayout Plain Lù
+r
+\end*;ö
+</cell>
+<ó alignment="cûer" vñtop" bottomline÷rue" leftëusebox="none">
+\beginpú Text
+òlayout Plain Lù
+b
+\end*;ö
+</cell>
+<ó alignment="cûer" vñtop" bottomline÷rue" leftëusebox="none">
+\beginpú Text
+òlayout Plain Lù
+r
+\end*;ö
+</cell>
+<ó alignment="cûer" vñtop" bottomline÷rue" leftëusebox="none">
+\beginpú Text
+òlayout Plain Lù
+a
+\end*;ø
+</cell>ýrowó alignment="cûer" vætop" usebox="none">
+\begin[ü Texl{ø Plain Lù
+0
+\end*;ö
+</cell>
+<ÿ uÿc{ûer" vótop" leftlineærue" usebox="none">
+\begin^ü Texo~ø Plain Lù
+b
+\end*;ö
+</cell>
+<ó alignment="cûer" vótop" leftlineærue" usebox="none">
+\begin^ü Texo~ø Plain Lù
+r
+\end*;ö
+</cell>
+<ó alignment="cûer" vótop" leftlineærue" usebox="none">
+\begin^ü Texo~ø Plain L÷emph on
+aþnd%Eö
+</cell>
+<ó alignment="cûer" vótop" leftlineærue" usebox="none">
+\begin^ü Texo~ø Plain Lýend:ö
+</cell>
+<ó alignment="cûer" vótop" leftlineærue" usebox="none">
+\begin^ü Tex|~ø Plain Lýend:ö
+</cell>
+<ó alignment="cûer" vótop" leftlineærue" usebox="none">
+\begin^ü Tex|~ø Plain Lýend:ö
+</cell>
+<ó alignment="cûer" vótop" leftlineærue" usebox="none">
+\begin^ü Tex|~ø Plain Lýend:ö
+</cell>
+<ó alignment="cûer" vótop" leftlineærue" usebox="none">
+\begin^ü Tex|~ø Plain Lýend:ø
+</cell>ýrowó alignment="cûer" vætop" usebox="none">
+\begin[ü Texy{ø Plain Lù
+1
+\end*;ö
+</cell>
+<ÿ uÿc{ûer" vótop" leftlineærue" usebox="none">
+\begin^ü Texo~ø Plain Lýend:ö
+</cell>
+<ó alignment="cûer" vótop" leftlineærue" usebox="none">
+\begin^ü Tex|~ø Plain Lýend:ö
+</cell>
+<ó alignment="cûer" vótop" leftlineærue" usebox="none">
+\begin^ü Tex|~ø Plain Lù
+b
+\end*;ö
+</cell>
+<ó alignment="cûer" vótop" leftlineærue" usebox="none">
+\begin^ü Texo~ø Plain Lù
+r
+\end*;ö
+</cell>
+<ó alignment="cûer" vótop" leftlineærue" usebox="none">
+\begin^ü Texo~ø Plain L÷emph on
+aþnd%Eö
+</cell>
+<ó alignment="cûer" vótop" leftlineærue" usebox="none">
+\begin^ü Texo~ø Plain Lýend:ö
+</cell>
+<ó alignment="cûer" vótop" leftlineærue" usebox="none">
+\begin^ü Tex|~ø Plain Lýend:ö
+</cell>
+<ó alignment="cûer" vótop" leftlineærue" usebox="none">
+\begin^ü Tex|~ø Plain Lýend:ø
+</cell>ýrowó alignment="cûer" vætop" usebox="none">
+\begin[ü Texy{ø Plain Lù
+2
+\end*;ö
+</cell>
+<ÿ uÿc{ûer" vótop" leftlineærue" usebox="none">
+\begin^ü Texo~ø Plain Lýend:ö
+</cell>
+<ó alignment="cûer" vótop" leftlineærue" usebox="none">
+\begin^ü Tex|~ø Plain Lýend:ö
+</cell>
+<ó alignment="cûer" vótop" leftlineærue" usebox="none">
+\begin^ü Tex|~ø Plain Lýend:ö
+</cell>
+<ó alignment="cûer" vótop" leftlineærue" usebox="none">
+\begin^ü Tex|~ø Plain Lù
+b
+\end*;ö
+</cell>
+<ó alignment="cûer" vótop" leftlineærue" usebox="none">
+\begin^ü Texo~ø Plain Lù
+r
+\end*;ö
+</cell>
+<ó alignment="cûer" vótop" leftlineærue" usebox="none">
+\begin^ü Texo~ø Plain L÷emph on
+aþnd%Eö
+</cell>
+<ó alignment="cûer" vótop" leftlineærue" usebox="none">
+\begin^ü Texo~ø Plain Lýend:ö
+</cell>
+<ó alignment="cûer" vótop" leftlineærue" usebox="none">
+\begin^ü Tex|~ø Plain Lýend:ø
+</cell>ýrowó alignment="cûer" vætop" usebox="none">
+\begin[ü Texy{ø Plain Lù
+3
+\end*;ö
+</cell>
+<ÿ uÿc{ûer" vótop" leftlineærue" usebox="none">
+\begin^ü Texo~ø Plain Lýend:ö
+</cell>
+<ó alignment="cûer" vótop" leftlineærue" usebox="none">
+\begin^ü Tex|~ø Plain Lýend:ö
+</cell>
+<ó alignment="cûer" vótop" leftlineærue" usebox="none">
+\begin^ü Tex|~ø Plain Lýend:ö
+</cell>
+<ó alignment="cûer" vótop" leftlineærue" usebox="none">
+\begin^ü Tex|~ø Plain Lýend:ö
+</cell>
+<ó alignment="cûer" vótop" leftlineærue" usebox="none">
+\begin^ü Tex|~ø Plain Lýend:ö
+</cell>
+<ó alignment="cûer" vótop" leftlineærue" usebox="none">
+\begin^ü Tex|~ø Plain Lîseries bold
+b
+\end)8Iö
+</cell>
+<ó alignment="cûer" vótop" leftlineærue" usebox="none">
+\begin^ü Texo~ø Plain Lîseries bold
+r
+\end)8Iö
+</cell>
+<ó alignment="cûer" vótop" leftlineærue" usebox="none">
+\begin^ü Texo~ø Plain Lîseries bold
+a
+\end)8Iø
+</cell>ýrowõlyxtabular>)6Códeeper
+\begin^Ñ Itemize
+Hvis det passer, se pÃ¥ nestsiste osv.V(øStandardmýins[÷SeparatoreúrbreakPÿ
+P]	QûFrameNêArgument 4
+status open9ùPlain LUðRegelen om upass}úe tegn{eÿ
+O	tñSeparator latex-G:ûdeepe(Hdî Itemize
+Hvis tegn]úikke fxá i sÃ¸keteksten, kan vi flytte Yuô Formula $m$ý
+
+ ;ùg frem:zÿ
+>÷ StandardUýTabTùr
+<lyxtä version="3" rows="4" columnñ15">
+<features 5îvalignment="middle&5ÿ ÿc"üer" 0ýtop--ZZZZZZZZZZZZZ1ýrow`ýell^$õ bottomlineoïrue" usebox="none~î\begin_inset Text
+òlayout Plain Lýend:ö
+</cell>
+<ó alignment="cûer" vñtop" bottomline÷rue" leftëusebox="none">
+\beginpú Text
+òlayout Plain Lù
+m
+\end*;ö
+</cell>
+<ó alignment="cûer" vñtop" bottomline÷rue" leftëusebox="none">
+\beginpú Text
+òlayout Plain Lù
+e
+\end*;ö
+</cell>
+<ó alignment="cûer" vñtop" bottomline÷rue" leftëusebox="none">
+\beginpú Text
+òlayout Plain Lù
+t
+\end*;ö
+</cell>
+<ó alignment="cûer" vñtop" bottomline÷rue" leftëusebox="none">
+\beginpú Text
+òlayout Plain Lù
+e
+\end*;ö
+</cell>
+<ó alignment="cûer" vñtop" bottomline÷rue" leftëusebox="none">
+\beginpú Text
+òlayout Plain Lù
+o
+\end*;ö
+</cell>
+<ó alignment="cûer" vñtop" bottomline÷rue" leftëusebox="none">
+\beginpú Text
+òlayout Plain Lù
+r
+\end*;ö
+</cell>
+<ó alignment="cûer" vñtop" bottomline÷rue" leftëusebox="none">
+\beginpú Text
+òlayout Plain Lù
+i
+\end*;ö
+</cell>
+<ó alignment="cûer" vñtop" bottomline÷rue" leftëusebox="none">
+\beginpú Text
+òlayout Plain Lù
+t
+\end*;ö
+</cell>
+<ó alignment="cûer" vñtop" bottomline÷rue" leftëusebox="none">
+\beginpú Text
+òlayout Plain Lù
+t
+\end*;ö
+</cell>
+<ó alignment="cûer" vñtop" bottomline÷rue" leftëusebox="none">
+\beginpú Text
+òlayout Plain Lù
+s
+\end*;ö
+</cell>
+<ó alignment="cûer" vñtop" bottomline÷rue" leftëusebox="none">
+\beginpú Text
+òlayout Plain Lù
+t
+\end*;ö
+</cell>
+<ó alignment="cûer" vñtop" bottomline÷rue" leftëusebox="none">
+\beginpú Text
+òlayout Plain Lù
+e
+\end*;ö
+</cell>
+<ó alignment="cûer" vñtop" bottomline÷rue" leftëusebox="none">
+\beginpú Text
+òlayout Plain Lù
+i
+\end*;ö
+</cell>
+<ó alignment="cûer" vñtop" bottomline÷rue" leftëusebox="none">
+\beginpú Text
+òlayout Plain Lù
+n
+\end*;ø
+</cell>ýrowó alignment="cûer" vætop" usebox="none">
+\begin[ü Texl{ø Plain Lù
+0
+\end*;ö
+</cell>
+<ÿ uÿc{ûer" vótop" leftlineærue" usebox="none">
+\begin^ü Texo~ø Plain Lù
+s
+\end*;ö
+</cell>
+<ó alignment="cûer" vótop" leftlineærue" usebox="none">
+\begin^ü Texo~ø Plain Lù
+t
+\end*;ö
+</cell>
+<ó alignment="cûer" vótop" leftlineærue" usebox="none">
+\begin^ü Texo~ø Plain Lù
+e
+\end*;ö
+</cell>
+<ó alignment="cûer" vótop" leftlineærue" usebox="none">
+\begin^ü Texo~ø Plain Lù
+i
+\end*;ö
+</cell>
+<ó alignment="cûer" vótop" leftlineærue" usebox="none">
+\begin^ü Texo~ø Plain L÷emph on
+nþnd%Eö
+</cell>
+<ó alignment="cûer" vótop" leftlineærue" usebox="none">
+\begin^ü Texo~ø Plain Lýend:ö
+</cell>
+<ó alignment="cûer" vótop" leftlineærue" usebox="none">
+\begin^ü Tex|~ø Plain Lýend:ö
+</cell>
+<ó alignment="cûer" vótop" leftlineærue" usebox="none">
+\begin^ü Tex|~ø Plain Lýend:ö
+</cell>
+<ó alignment="cûer" vótop" leftlineærue" usebox="none">
+\begin^ü Tex|~ø Plain Lýend:ö
+</cell>
+<ó alignment="cûer" vótop" leftlineærue" usebox="none">
+\begin^ü Tex|~ø Plain Lýend:ö
+</cell>
+<ó alignment="cûer" vótop" leftlineærue" usebox="none">
+\begin^ü Tex|~ø Plain Lýend:ö
+</cell>
+<ó alignment="cûer" vótop" leftlineærue" usebox="none">
+\begin^ü Tex|~ø Plain Lýend:ö
+</cell>
+<ó alignment="cûer" vótop" leftlineærue" usebox="none">
+\begin^ü Tex|~ø Plain Lýend:ö
+</cell>
+<ó alignment="cûer" vótop" leftlineærue" usebox="none">
+\begin^ü Tex|~ø Plain Lýend:ø
+</cell>ýrowó alignment="cûer" vætop" usebox="none">
+\begin[ü Texy{ø Plain Lù
+1
+\end*;ö
+</cell>
+<ÿ uÿc{ûer" vótop" leftlineærue" usebox="none">
+\begin^ü Texo~ø Plain Lýend:ö
+</cell>
+<ó alignment="cûer" vótop" leftlineærue" usebox="none">
+\begin^ü Tex|~ø Plain Lýend:ö
+</cell>
+<ó alignment="cûer" vótop" leftlineærue" usebox="none">
+\begin^ü Tex|~ø Plain Lýend:ö
+</cell>
+<ó alignment="cûer" vótop" leftlineærue" usebox="none">
+\begin^ü Tex|~ø Plain Lýend:ö
+</cell>
+<ó alignment="cûer" vótop" leftlineærue" usebox="none">
+\begin^ü Tex|~ø Plain Lýend:ö
+</cell>
+<ó alignment="cûer" vótop" leftlineærue" usebox="none">
+\begin^ü Tex|~ø Plain Lù
+s
+\end*;ö
+</cell>
+<ó alignment="cûer" vótop" leftlineærue" usebox="none">
+\begin^ü Texo~ø Plain Lù
+t
+\end*;ö
+</cell>
+<ó alignment="cûer" vótop" leftlineærue" usebox="none">
+\begin^ü Texo~ø Plain Lù
+e
+\end*;ö
+</cell>
+<ó alignment="cûer" vótop" leftlineærue" usebox="none">
+\begin^ü Texo~ø Plain Lù
+i
+\end*;ö
+</cell>
+<ó alignment="cûer" vótop" leftlineærue" usebox="none">
+\begin^ü Texo~ø Plain L÷emph on
+nþnd%Eö
+</cell>
+<ó alignment="cûer" vótop" leftlineærue" usebox="none">
+\begin^ü Texo~ø Plain Lýend:ö
+</cell>
+<ó alignment="cûer" vótop" leftlineærue" usebox="none">
+\begin^ü Tex|~ø Plain Lýend:ö
+</cell>
+<ó alignment="cûer" vótop" leftlineærue" usebox="none">
+\begin^ü Tex|~ø Plain Lýend:ö
+</cell>
+<ó alignment="cûer" vótop" leftlineærue" usebox="none">
+\begin^ü Tex|~ø Plain Lýend:ø
+</cell>ýrowó alignment="cûer" vætop" usebox="none">
+\begin[ü Texy{ø Plain Lù
+2
+\end*;ö
+</cell>
+<ÿ uÿc{ûer" vótop" leftlineærue" usebox="none">
+\begin^ü Texo~ø Plain Lýend:ö
+</cell>
+<ó alignment="cûer" vótop" leftlineærue" usebox="none">
+\begin^ü Tex|~ø Plain Lýend:ö
+</cell>
+<ó alignment="cûer" vótop" leftlineærue" usebox="none">
+\begin^ü Tex|~ø Plain Lýend:ö
+</cell>
+<ó alignment="cûer" vótop" leftlineærue" usebox="none">
+\begin^ü Tex|~ø Plain Lýend:ö
+</cell>
+<ó alignment="cûer" vótop" leftlineærue" usebox="none">
+\begin^ü Tex|~ø Plain Lýend:ö
+</cell>
+<ó alignment="cûer" vótop" leftlineærue" usebox="none">
+\begin^ü Tex|~ø Plain Lýend:ö
+</cell>
+<ó alignment="cûer" vótop" leftlineærue" usebox="none">
+\begin^ü Tex|~ø Plain Lýend:ö
+</cell>
+<ó alignment="cûer" vótop" leftlineærue" usebox="none">
+\begin^ü Tex|~ø Plain Lýend:ö
+</cell>
+<ó alignment="cûer" vótop" leftlineærue" usebox="none">
+\begin^ü Tex|~ø Plain Lýend:ö
+</cell>
+<ó alignment="cûer" vótop" leftlineærue" usebox="none">
+\begin^ü Tex|~ø Plain Lîseries bold
+s
+\end)8Iö
+</cell>
+<ó alignment="cûer" vótop" leftlineærue" usebox="none">
+\begin^ü Texo~ø Plain Lîseries bold
+t
+\end)8Iö
+</cell>
+<ó alignment="cûer" vótop" leftlineærue" usebox="none">
+\begin^ü Texo~ø Plain Lîseries bold
+e
+\end)8Iö
+</cell>
+<ó alignment="cûer" vótop" leftlineærue" usebox="none">
+\begin^ü Texo~ø Plain Lîseries bold
+i
+\end)8Iö
+</cell>
+<ó alignment="cûer" vótop" leftlineærue" usebox="none">
+\begin^ü Texo~ø Plain Lîseries bold
+n
+\end)8Iø
+</cell>ýrowõlyxtabular>)6C	{ëItemize
+Hvis tegnet fa× til venstre i sÃ¸keordet, kan vi flytte  þ¥ õpasser
+ medNúksten $úVi harW1ótabell for hvýmyeqxuR$÷I praksisRùele alfdütet,bþdeZðeste tegn gir etmú
+ pÃ¥ eýinsðFormula $m$
+\endò
+
+.
+ (Regel om3öQuotes cld2ûupassBy3ÿr3ÿ)sûlayoutfÕ Itemize
+Tabellen lager vi ved Ã¥ pre-prosewòre sÃ¸ketekste~X#òegn som fins i@ö, gir kortZûflyttF-îet Separator latexsÿ
+sq:ûdeepe(Hô Itemize
+En böQuotes cldZÿs&ÿr&õ i siste poïjon gir flytt pÃ¥kóFormula $m-1$nø, fordi mùstarterBöQuotes cld?ÿs&ÿr&rûlayousúdeeperdø ItemizezàFormula $\Omega\left(n/m\right)$jè for sÃ¸ket.
+ Mye bedre!ugÿ
+2údeeperl÷ StandardWø Separat[ûbreaku]QûFrameNêArgument 4
+status open9ùPlain LUûUpassrðe tegn, fortsattzdÿ
+N	sñSeparator latex-G:ûdeepe(Hdî Itemize
+Hvis tegn]úikke fxá i sÃ¸keteksten, kan vi flytte Yuô Formula $m$ý
+
+ ;ùg frem,1ñSeparator latex8EûlayouFkûdeepe(yá Itemize
+hvis mismatch var pÃ¥ Uômph on
+sisteédefault
+tegn i sÃ¸ketek"ÿnzlýmedk
+günestkõkan vi flyt"^íinset Formula $m-1$Qþndý
+
+ Oÿgûlayou:â Itemize
+ved mismatch pÃ¥ nestþsiCÿ,xür vi|ÿ2|û osv.rÿ
+$údeeperK÷ StandardbýTabaùr
+<lyxtï version="3" rows	úcolumnñ15">
+<features 5îvalignment="middle&5ÿ ÿc"üer" 0ýtop--ZZZZZZZZZZZZZ1ýrow`ýell^$õ bottomlineoïrue" usebox="none~î\begin_inset Text
+òlayout Plain Lýend:ö
+</cell>
+<ó alignment="cûer" vñtop" bottomline÷rue" leftëusebox="none">
+\beginpú Text
+òlayout Plain Lù
+m
+\end*;ö
+</cell>
+<ó alignment="cûer" vñtop" bottomline÷rue" leftëusebox="none">
+\beginpú Text
+òlayout Plain Lù
+e
+\end*;ö
+</cell>
+<ó alignment="cûer" vñtop" bottomline÷rue" leftëusebox="none">
+\beginpú Text
+òlayout Plain Lù
+t
+\end*;ö
+</cell>
+<ó alignment="cûer" vñtop" bottomline÷rue" leftëusebox="none">
+\beginpú Text
+òlayout Plain Lù
+e
+\end*;ö
+</cell>
+<ó alignment="cûer" vñtop" bottomline÷rue" leftëusebox="none">
+\beginpú Text
+òlayout Plain Lù
+o
+\end*;ö
+</cell>
+<ó alignment="cûer" vñtop" bottomline÷rue" leftëusebox="none">
+\beginpú Text
+òlayout Plain Lù
+r
+\end*;ö
+</cell>
+<ó alignment="cûer" vñtop" bottomline÷rue" leftëusebox="none">
+\beginpú Text
+òlayout Plain Lù
+i
+\end*;ö
+</cell>
+<ó alignment="cûer" vñtop" bottomline÷rue" leftëusebox="none">
+\beginpú Text
+òlayout Plain Lù
+t
+\end*;ö
+</cell>
+<ó alignment="cûer" vñtop" bottomline÷rue" leftëusebox="none">
+\beginpú Text
+òlayout Plain Lù
+t
+\end*;ö
+</cell>
+<ó alignment="cûer" vñtop" bottomline÷rue" leftëusebox="none">
+\beginpú Text
+òlayout Plain Lù
+s
+\end*;ö
+</cell>
+<ó alignment="cûer" vñtop" bottomline÷rue" leftëusebox="none">
+\beginpú Text
+òlayout Plain Lù
+t
+\end*;ö
+</cell>
+<ó alignment="cûer" vñtop" bottomline÷rue" leftëusebox="none">
+\beginpú Text
+òlayout Plain Lù
+e
+\end*;ö
+</cell>
+<ó alignment="cûer" vñtop" bottomline÷rue" leftëusebox="none">
+\beginpú Text
+òlayout Plain Lù
+i
+\end*;ö
+</cell>
+<ó alignment="cûer" vñtop" bottomline÷rue" leftëusebox="none">
+\beginpú Text
+òlayout Plain Lù
+n
+\end*;ø
+</cell>ýrowó alignment="cûer" vætop" usebox="none">
+\begin[ü Texl{ø Plain Lù
+0
+\end*;ö
+</cell>
+<ÿ uÿc{ûer" vótop" leftlineærue" usebox="none">
+\begin^ü Texo~ø Plain Lù
+m
+\end*;ö
+</cell>
+<ó alignment="cûer" vótop" leftlineærue" usebox="none">
+\begin^ü Texo~ø Plain Lù
+e
+\end*;ö
+</cell>
+<ó alignment="cûer" vótop" leftlineærue" usebox="none">
+\begin^ü Texo~ø Plain L÷emph on
+nþnd%Eö
+</cell>
+<ó alignment="cûer" vótop" leftlineærue" usebox="none">
+\begin^ü Texo~ø Plain Lù
+e
+\end*;ö
+</cell>
+<ó alignment="cûer" vótop" leftlineærue" usebox="none">
+\begin^ü Texo~ø Plain Lýend:ö
+</cell>
+<ó alignment="cûer" vótop" leftlineærue" usebox="none">
+\begin^ü Tex|~ø Plain Lýend:ö
+</cell>
+<ó alignment="cûer" vótop" leftlineærue" usebox="none">
+\begin^ü Tex|~ø Plain Lýend:ö
+</cell>
+<ó alignment="cûer" vótop" leftlineærue" usebox="none">
+\begin^ü Tex|~ø Plain Lýend:ö
+</cell>
+<ó alignment="cûer" vótop" leftlineærue" usebox="none">
+\begin^ü Tex|~ø Plain Lýend:ö
+</cell>
+<ó alignment="cûer" vótop" leftlineærue" usebox="none">
+\begin^ü Tex|~ø Plain Lýend:ö
+</cell>
+<ó alignment="cûer" vótop" leftlineærue" usebox="none">
+\begin^ü Tex|~ø Plain Lýend:ö
+</cell>
+<ó alignment="cûer" vótop" leftlineærue" usebox="none">
+\begin^ü Tex|~ø Plain Lýend:ö
+</cell>
+<ó alignment="cûer" vótop" leftlineærue" usebox="none">
+\begin^ü Tex|~ø Plain Lýend:ö
+</cell>
+<ó alignment="cûer" vótop" leftlineærue" usebox="none">
+\begin^ü Tex|~ø Plain Lýend:ø
+</cell>ýrowó alignment="cûer" vætop" usebox="none">
+\begin[ü Texy{ø Plain Lù
+1
+\end*;ö
+</cell>
+<ÿ uÿc{ûer" vótop" leftlineærue" usebox="none">
+\begin^ü Texo~ø Plain Lýend:ö
+</cell>
+<ó alignment="cûer" vótop" leftlineærue" usebox="none">
+\begin^ü Tex|~ø Plain Lýend:ö
+</cell>
+<ó alignment="cûer" vótop" leftlineærue" usebox="none">
+\begin^ü Tex|~ø Plain Lýend:ö
+</cell>
+<ó alignment="cûer" vótop" leftlineærue" usebox="none">
+\begin^ü Tex|~ø Plain Lù
+m
+\end*;ö
+</cell>
+<ó alignment="cûer" vótop" leftlineærue" usebox="none">
+\begin^ü Texo~ø Plain Lù
+e
+\end*;ö
+</cell>
+<ó alignment="cûer" vótop" leftlineærue" usebox="none">
+\begin^ü Texo~ø Plain Lù
+n
+\end*;ö
+</cell>
+<ó alignment="cûer" vótop" leftlineærue" usebox="none">
+\begin^ü Texo~ø Plain L÷emph on
+eþnd%Eö
+</cell>
+<ó alignment="cûer" vótop" leftlineærue" usebox="none">
+\begin^ü Texo~ø Plain Lýend:ö
+</cell>
+<ó alignment="cûer" vótop" leftlineærue" usebox="none">
+\begin^ü Tex|~ø Plain Lýend:ö
+</cell>
+<ó alignment="cûer" vótop" leftlineærue" usebox="none">
+\begin^ü Tex|~ø Plain Lýend:ö
+</cell>
+<ó alignment="cûer" vótop" leftlineærue" usebox="none">
+\begin^ü Tex|~ø Plain Lýend:ö
+</cell>
+<ó alignment="cûer" vótop" leftlineærue" usebox="none">
+\begin^ü Tex|~ø Plain Lýend:ö
+</cell>
+<ó alignment="cûer" vótop" leftlineærue" usebox="none">
+\begin^ü Tex|~ø Plain Lýend:ö
+</cell>
+<ó alignment="cûer" vótop" leftlineærue" usebox="none">
+\begin^ü Tex|~ø Plain Lýend:ø
+</cell>ýrowõlyxtabular>)ClÕItemize
+Vi trenger altsÃ¥ en todimensjonal ]qÿ:A]ð Separator latex{"ûdeepe(Hé Itemize
+En indeks er dbûupassSúe tegnUSE÷Den andreLNøposisjonøi sÃ¸kethýtenS$ûVerdi:ücellQßhvor langt vi kan flytte fremoverYfüdeepqøStandardüinseúeparatpûbreak\ÿ
+\i	QûFrameNêArgument 4
+status open9ùPlain LUûUpassrõe tegn, lagûabell:iÿ
+S	x÷Separator?ýtex-G:ûdeepe(Hdõ LyX-Code
+FLâhver posisjon p i sÃ¸ketekstenUGý   Jøt tegn xGûalfabHÿtD(Gõlet mot staKúi sÃ¸kCõksten fra pM+ìhvis vi finner x ettVüteg,I+ÿs9ò Tab[p][x] = i=+êhvis vi ikke finner x,O
+ü=p+1O\údeeper[øStandardrüinse÷eparator ûbreakPÿ
+P]	QûFrameNêArgument 4
+status open9ùPlain LUóRegel om passzþe þlsZ{eÿ
+O	tñSeparator latex-G:ûdeepe(Hd÷ Standard_ûTabulTû<lyxtä version="3" rows="5" columnò9">
+<features 4îvalignment="middle&4ÿ ÿc"üer" 0ýtop--ZZZZZZZ1ýrow`ýell^$õ bottomlineoïrue" usebox="none~î\begin_inset Text
+òlayout Plain Lýend:ö
+</cell>
+<ó alignment="cûer" vñtop" bottomline÷rue" leftëusebox="none">
+\beginpú Text
+òlayout Plain Lù
+r
+\end*;ö
+</cell>
+<ó alignment="cûer" vñtop" bottomline÷rue" leftëusebox="none">
+\beginpú Text
+òlayout Plain Lù
+e
+\end*;ö
+</cell>
+<ó alignment="cûer" vñtop" bottomline÷rue" leftëusebox="none">
+\beginpú Text
+òlayout Plain Lù
+n
+\end*;ö
+</cell>
+<ó alignment="cûer" vñtop" bottomline÷rue" leftëusebox="none">
+\beginpú Text
+òlayout Plain Lù
+n
+\end*;ö
+</cell>
+<ó alignment="cûer" vñtop" bottomline÷rue" leftëusebox="none">
+\beginpú Text
+òlayout Plain Lù
+e
+\end*;ö
+</cell>
+<ó alignment="cûer" vñtop" bottomline÷rue" leftëusebox="none">
+\beginpú Text
+òlayout Plain Lù
+n
+\end*;ö
+</cell>
+<ó alignment="cûer" vñtop" bottomline÷rue" leftëusebox="none">
+\beginpú Text
+òlayout Plain Lù
+e
+\end*;ö
+</cell>
+<ó alignment="cûer" vñtop" bottomline÷rue" leftëusebox="none">
+\beginpú Text
+òlayout Plain Lýend:ø
+</cell>ýrowó alignment="cûer" vætop" usebox="none">
+\begin[ü Texy{ø Plain Lù
+0
+\end*;ö
+</cell>
+<ÿ uÿc{ûer" vótop" leftlineærue" usebox="none">
+\begin^ü Texo~ø Plain Lù
+e
+\end*;ö
+</cell>
+<ó alignment="cûer" vótop" leftlineærue" usebox="none">
+\begin^ü Texo~ø Plain Lù
+n
+\end*;ö
+</cell>
+<ó alignment="cûer" vótop" leftlineærue" usebox="none">
+\begin^ü Texo~ø Plain L÷emph on
+eþnd%Eö
+</cell>
+<ó alignment="cûer" vótop" leftlineærue" usebox="none">
+\begin^ü Texo~ø Plain Lýend:ö
+</cell>
+<ó alignment="cûer" vótop" leftlineærue" usebox="none">
+\begin^ü Tex|~ø Plain Lýend:ö
+</cell>
+<ó alignment="cûer" vótop" leftlineærue" usebox="none">
+\begin^ü Tex|~ø Plain Lýend:ö
+</cell>
+<ó alignment="cûer" vótop" leftlineærue" usebox="none">
+\begin^ü Tex|~ø Plain Lýend:ö
+</cell>
+<ó alignment="cûer" vótop" leftlineærue" usebox="none">
+\begin^ü Tex|~ø Plain Lýend:ø
+</cell>ýrowó alignment="cûer" vætop" usebox="none">
+\begin[ü Texy{ø Plain Lù
+1
+\end*;ö
+</cell>
+<ÿ uÿc{ûer" vótop" leftlineærue" usebox="none">
+\begin^ü Texo~ø Plain Lýend:ö
+</cell>
+<ó alignment="cûer" vótop" leftlineærue" usebox="none">
+\begin^ü Tex|~ø Plain Lù
+e
+\end*;ö
+</cell>
+<ó alignment="cûer" vótop" leftlineærue" usebox="none">
+\begin^ü Texo~ø Plain Lù
+n
+\end*;ö
+</cell>
+<ó alignment="cûer" vótop" leftlineærue" usebox="none">
+\begin^ü Texo~ø Plain L÷emph on
+eþnd%Eö
+</cell>
+<ó alignment="cûer" vótop" leftlineærue" usebox="none">
+\begin^ü Texo~ø Plain Lýend:ö
+</cell>
+<ó alignment="cûer" vótop" leftlineærue" usebox="none">
+\begin^ü Tex|~ø Plain Lýend:ö
+</cell>
+<ó alignment="cûer" vótop" leftlineærue" usebox="none">
+\begin^ü Tex|~ø Plain Lýend:ö
+</cell>
+<ó alignment="cûer" vótop" leftlineærue" usebox="none">
+\begin^ü Tex|~ø Plain Lýend:ø
+</cell>ýrowó alignment="cûer" vætop" usebox="none">
+\begin[ü Texy{ø Plain Lù
+2
+\end*;ö
+</cell>
+<ÿ uÿc{ûer" vótop" leftlineærue" usebox="none">
+\begin^ü Texo~ø Plain Lýend:ö
+</cell>
+<ó alignment="cûer" vótop" leftlineærue" usebox="none">
+\begin^ü Tex|~ø Plain Lýend:ö
+</cell>
+<ó alignment="cûer" vótop" leftlineærue" usebox="none">
+\begin^ü Tex|~ø Plain L÷emph on
+eþnd%Eö
+</cell>
+<ó alignment="cûer" vótop" leftlineærue" usebox="none">
+\begin^ü Texo~ø Plain Lîseries bold
+n
+\end)8Iö
+</cell>
+<ó alignment="cûer" vótop" leftlineærue" usebox="none">
+\begin^ü Texo~ø Plain Lîseries bold
+e
+\end)8Iö
+</cell>
+<ó alignment="cûer" vótop" leftlineærue" usebox="none">
+\begin^ü Texo~ø Plain Lýend:ö
+</cell>
+<ó alignment="cûer" vótop" leftlineærue" usebox="none">
+\begin^ü Tex|~ø Plain Lýend:ö
+</cell>
+<ó alignment="cûer" vótop" leftlineærue" usebox="none">
+\begin^ü Tex|~ø Plain Lýend:ø
+</cell>ýrowó alignment="cûer" vætop" usebox="none">
+\begin[ü Texy{ø Plain Lýend:ö
+</cell>
+<ÿ tÿczûer" vótop" leftlineærue" usebox="none">
+\begin^ü Tex|~ø Plain Lýend:ö
+</cell>
+<ó alignment="cûer" vótop" leftlineærue" usebox="none">
+\begin^ü Tex|~ø Plain Lýend:ö
+</cell>
+<ó alignment="cûer" vótop" leftlineærue" usebox="none">
+\begin^ü Tex|~ø Plain Lýend:ö
+</cell>
+<ó alignment="cûer" vótop" leftlineærue" usebox="none">
+\begin^ü Tex|~ø Plain Lýend:ö
+</cell>
+<ó alignment="cûer" vótop" leftlineærue" usebox="none">
+\begin^ü Tex|~ø Plain Lîseries bold
+e
+\end)8Iö
+</cell>
+<ó alignment="cûer" vótop" leftlineærue" usebox="none">
+\begin^ü Texo~ø Plain Lîseries bold
+n
+\end)8Iö
+</cell>
+<ó alignment="cûer" vótop" leftlineærue" usebox="none">
+\begin^ü Texo~ø Plain Lîseries bold
+e
+\end)8Iö
+</cell>
+<ó alignment="cûer" vótop" leftlineærue" usebox="none">
+\begin^ü Texo~ø Plain Lýend:ø
+</cell>ýrowõlyxtabular>)ClæItemize
+0,1: NÃ¥r siste poôjon treffer 8}õ Quotes cldjÿn&ÿr&î, kan vi bare flytqüett yÿgPûlayouQué Itemize
+2: Feil i fÃ¸r6÷ posisjon1jð Separator latex^ÿ
+^kûdeepe(y÷Regel om höQuotes cld`ûupasspúe tegn3ÿr3ã lar oss bare flytte ett hakk]ûlayou^júdeeper[î Itemize
+Regel om {ÿl{üpass`oýlse5ÿr5å lar oss flytte to hakk her]ûlayou^Mù ItemizcñERT
+status open4ùPlain LPþ{}`mHÿ
+m	WöQuotes cld%ÿn~'ÿr'ü pasUû, og X%ÿeY(îoverlapper med segþlv~ûlayourä Itemize
+Vi slÃ¥r opp bÃ¥de tÿltûupass_úe tegn3ÿr3ü og 6	;ýlse9%ÿ,:èbruker regelen som gir dpògste hoppet.
+ wûlayouxKúdeeperoù Standanpõ Separator ûbreakPÿ
+P]	QûFrameNêArgument 4
+status open9ùPlain LUüPassqþe õlse, tabellzdÿ
+N	sñSeparator latex-G:ûdeepe(Hdö Itemize
+Tüen fTlöQuotes clddüpasssþe ýlse5ÿr5ZùSeparatrûlatex-oûlayoup_ûdeepe(mì Itemize
+index er hvUîmange tegn som pasWUGòverdien i cell	RÿlRñt vi kan flytteP]údeeper\ìLages ved Ã¥ prÃ¸ve {óom sÃ¸ketekst{ùoverlapHþ m,ýsegþlvUëinset Separator latexû
+\endþ
+
+ûlayou:ýdeeUHä Itemize
+ofte gjÃ¸r den ikke	ôt, og vi fÃ¥k÷nge hopp!a{_køStandardüinseòeparator plainYÿ
+Yf	NûFrameKêArgument 4
+status open9ÿPgþ LUùGalil sûregelq~[ÿ
+	wúdeeper`æItemize
+Hvis vi sÃ¸ker ett:Võ Quotes cldlýaaa(ÿr(þ iP)Sýâ€¦V%î, har vi dessverrefàFormula $O\left(n\cdot m\right)$|<\ûlayou]IúdeeperWï Itemize
+sÃ¸keordkãpasser overalt, de samme a-enïjekkes flere gangUp}nåGalil fant en mÃ¥te Ã¥ unngüÃ¸dvRþig{únlignijÿ:k_mâNÃ¥r vi flytter sÃ¸keordet korøe enn deÿlþav$:ýall&úde
+ ha@ójekket, trengQ\ÿiIìt overlappende omrÃ¥÷migjen.
+\ñ_layout
+
+\beginè Itemize
+Korte flytt skjgõfordi sÃ¸ke
+eôdelvis match ýsegúlv.
+ Hrîikke hadde passet,þvi\Gúlenger6ó
+\end_layout
+ódeeper
+\begin÷ StandardþinYò Tabular
+<lyxtï version="3" rows	úcolumnñ12">
+<features 5îvalignment="middle&5ÿ ÿc"üer" 0ýtop--ZZZZZZZZZZZýrow`ýell^$ó usebox="nonelî\begin_inset Text
+òlayout Plain Ló
+Teksten
+\end!0Aö
+</cell>
+<ÿ {ÿcûer" vótop" leftlineærue" usebox="none">
+\begin^ü Texo~ø Plain Lù
+.
+\end*;ö
+</cell>
+<ó alignment="cûer" vótop" leftlineærue" usebox="none">
+\begin^ü Texo~ø Plain Lù
+.
+\end*;ö
+</cell>
+<ó alignment="cûer" vótop" leftlineærue" usebox="none">
+\begin^ü Texo~ø Plain Lù
+.
+\end*;ö
+</cell>
+<ó alignment="cûer" vótop" leftlineærue" usebox="none">
+\begin^ü Texo~ø Plain Lù
+O
+\end*;ö
+</cell>
+<ó alignment="cûer" vótop" leftlineærue" usebox="none">
+\begin^ü Texo~ø Plain Lù
+l
+\end*;ö
+</cell>
+<ó alignment="cûer" vótop" leftlineærue" usebox="none">
+\begin^ü Texo~ø Plain Lù
+a
+\end*;ö
+</cell>
+<ó alignment="cûer" vótop" leftlineærue" usebox="none">
+\begin^ü Texo~ø Plain Lù
+l
+\end*;ö
+</cell>
+<ó alignment="cûer" vótop" leftlineærue" usebox="none">
+\begin^ü Texo~ø Plain Lù
+a
+\end*;ö
+</cell>
+<ó alignment="cûer" vótop" leftlineærue" usebox="none">
+\begin^ü Texo~ø Plain Lù
+.
+\end*;ö
+</cell>
+<ó alignment="cûer" vótop" leftline÷rue" righëusebox="none">
+\beginoú Text
+òlayout Plain Lù
+.
+\end*;ö
+</cell>
+<ó alignment="cûer" vòtop" rightlineærue" usebox="none">
+\begin_ü Texpø Plain Lù
+.
+\end*;ø
+</cell>ýrowó alignment="cûer" vætop" usebox="none">
+\begin[ü Texl{ø Plain Lî
+Mismatch O/a
+\end&5Fö
+</cell>
+<ó alignment="cûer" vótop" leftlineærue" usebox="none">
+\begin^ü Texo~ø Plain Lýend:ö
+</cell>
+<ó alignment="cûer" vótop" leftlineærue" usebox="none">
+\begin^ü Tex|~ø Plain Lýend:ö
+</cell>
+<ó alignment="cûer" vótop" leftlineærue" usebox="none">
+\begin^ü Tex|~ø Plain Lù
+l
+\end*;ö
+</cell>
+<ó alignment="cûer" vótop" leftlineærue" usebox="none">
+\begin^ü Texo~ø Plain L÷emph on
+aþnd%Eö
+</cell>
+<ó alignment="cûer" vótop" leftlineærue" usebox="none">
+\begin^ü Texo~ø Plain Lîseries bold
+l
+\end)8Iö
+</cell>
+<ó alignment="cûer" vótop" leftlineærue" usebox="none">
+\begin^ü Texo~ø Plain Lîseries bold
+a
+\end)8Iö
+</cell>
+<ó alignment="cûer" vótop" leftlineærue" usebox="none">
+\begin^ü Texo~ø Plain Lîseries bold
+l
+\end)8Iö
+</cell>
+<ó alignment="cûer" vótop" leftlineærue" usebox="none">
+\begin^ü Texo~ø Plain Lîseries bold
+a
+\end)8Iö
+</cell>
+<ó alignment="cûer" vótop" leftlineærue" usebox="none">
+\begin^ü Texo~ø Plain Lýend:ö
+</cell>
+<ó alignment="cûer" vótop" leftline÷rue" righëusebox="none">
+\beginoú Text
+òlayout Plain Lýend:ö
+</cell>
+<ó alignment="cûer" vòtop" rightlineærue" usebox="none">
+\begin_ü Tex}ø Plain Lýend:ø
+</cell>ýrowó alignment="cûer" vætop" usebox="none">
+\begin[ü Texy{ø Plain Lî
+Nytt forsÃ¸k
+\end&5Fö
+</cell>
+<ó alignment="cûer" vótop" leftlineærue" usebox="none">
+\begin^ü Texo~ø Plain Lýend:ö
+</cell>
+<ó alignment="cûer" vótop" leftlineærue" usebox="none">
+\begin^ü Tex|~ø Plain Lýend:ö
+</cell>
+<ó alignment="cûer" vótop" leftlineærue" usebox="none">
+\begin^ü Tex|~ø Plain Lýend:ö
+</cell>
+<ó alignment="cûer" vótop" leftlineærue" usebox="none">
+\begin^ü Tex|~ø Plain Lýend:ö
+</cell>
+<ó alignment="cûer" vótop" leftlineærue" usebox="none">
+\begin^ü Tex|~ø Plain L.ñERT
+status open9Váackslash
+cellcolor{orange}
+\endqGc7óseries bold
+l)þ</Uý>
+<\ó alignment="cûer" vótop" leftlineærue" usebox="none">
+\begin^ü Texo~ø Plain L.ñERT
+status open9Váackslash
+cellcolor{orange}
+\endqGc7óseries bold
+a)þ</Uý>
+<\ó alignment="cûer" vótop" leftlineærue" usebox="none">
+\begin^ü Texo~ø Plain L.ñERT
+status open9Váackslash
+cellcolor{orange}
+\endqGc7óseries bold
+l)þ</Uý>
+<\ó alignment="cûer" vótop" leftlineærue" usebox="none">
+\begin^ü Texo~ø Plain L.ñERT
+status open9Váackslash
+cellcolor{orange}
+\endqGc7óseries bold
+a)þ</Uý>
+<\ó alignment="cûer" vótop" leftlineærue" usebox="none">
+\begin^ü Texo~ø Plain Lù
+l
+\end*;ö
+</cell>
+<ó alignment="cûer" vótop" leftline÷rue" righëusebox="none">
+\beginoú Text
+òlayout Plain Lù
+a
+\end*;ö
+</cell>
+<ó alignment="cûer" vòtop" rightlineærue" usebox="none">
+\begin_ü Texpø Plain Lýend:ø
+</cell>ýrowõlyxtabular>)ClÝItemize
+Programmet trenger ikke sjeøden oranþ r@þonúmigjen_$øDermed: ~ýinsjçFormula $O\left(n\right)$S%û
+
+ og8ú\Omega=þ/m?ófor tekstsÃ¸kZûlayou[gúdeeperb÷ StandardyùSeparatQübreaPk]QûFrameNêArgument 4
+status open9ùPlain LUúLenkerhuRÿ
+u	añSeparator latex-GvüdeepbHdÛ Itemize
+Boyer og Moore sin artikkel:{WøStandard_çFlex URL
+status collapsedM	?ùPlain LiÃhttp://www.cs.utexas.edu/~moore/publications/fstrpos.pdf
+\endSbüinseRódeeper
+\begin5í Itemize
+Wikipedia:!Ið Separator latexg[iøStandard_ìFlex URL
+status openH	:ùPlain Ldçhttps://en.wikipedia.org/×/Boyer_moore_string_search_algorithm
+\end\küinse[ódeeper
+\begin5Ï Itemize
+Animasjon (Fyll ut, og velg Boyer-Moore)?g÷ space \hø*{\fill}{!ò
+
+Trenger java<ñSeparator latex9FûlayouGvûdeepe(H÷ Standard_ìFlex URL
+status openH	:ùPlain LdÁhttp://www.cs.pitt.edu/~kirk/cs1501/animations/String.html
+\endUdüinseTódeeper
+\begin5ô Itemize
+Dem\átrasjon pÃ¥ Moore sin nettside:oIWøStandardnæinset Flex URL
+status openH	:ýPlasÿLdÃhttp://www.cs.utexas.edu/users/moore/best-ideas/string-search
+þ/füpos-9ñmple.htm
+l
+\endqÿ
+üinsepúdeeperù
+\beginAä Section
+Mer om datakompresjk9ûFrameMäinset Argument 4
+status open9ùPlain LUïRun-length codings]ÿ
+G	lñSeparator latex-G:ûdeepe(Hdê Itemize
+Enkleste formñ datakompresjonRDø serie riþti7åer erstattes med et antall:Rþde;ÿr`ûABIIIôBBBCDEFFFGH ?ýinsaëFormula $\rightarrow$o!÷
+
+ AB12I3Aÿ3@nÿ
+}ûPause"Kúdeeper.ÛItemize
+I praksis litt mer komplisertoOìdet kan jo vÃ¦re sifþi þvi\þrifB]Oîser vanligvis pÃ¥ xýinsköQuotes cldNü
+
+by*ÿr*ú, ikkeV&ûtekstV%cûlayoud\Ø Itemize
+mÃ¥ kunne skille mellom data ogþtaLúdeeperZûPause|=.:ÐItemize
+Eks., bruker negativ byte for ukomprimerösekvenser:qYgûABIIIôBBBCDEFFFGH ?ÿiZét Formula $\rightarrow$o!ê
+
+ [-2]AB[12]I[3]B[-3]MÿFþGH.ûlayou/^Ü Itemize
+25 byte ble redusert til 16?údeeperMþPa8bo|.:àItemize
+Kan ikke komprimere ABABýâ€¦_SøStandardjüinse÷eparator ûbreakPÿ
+P]	QûFrameNêArgument 4
+status open9ùPlain LUëLempel-Ziv kompresjonwaÿ
+K	pñSeparator latex-G:ûdeepe(Hdå Itemize
+Leser gjennom filaD6ýInpDókopieres til r=$èHvis en lang nok sekvensPómmer omigjen:|ñinset Separator8ýtexlÿ
+lyûdeepe(Hâ Itemize
+dropp den, skriv hell÷en referawû til RÿpUaSùformat:@ýpetKûX teg`ðom vi har sett Y]ùdligere\iþdeDÿrhüHjelû hvisRøkvensen rýlenQý enón slik refera!fZüSÃ¸kYûbakovaíi et sirkulÃ¦rt bufMI$üOutpXíkan komprimeres vidú med HLõman-koding UbüdeepnaøStandardxüinse÷eparator ûbreakPÿ
+P]	QûFrameNêArgument 4
+status open9ùPlain LUòBakover-referavÿrt^ÿ
+H	mñSeparator latex-G:üdeepbHdí Itemize
+MÃ¥ vÃ¦re vòmph on
+kompaktz_Ôellers kan vi ikke referere til korte strengE`Rîf.eks.
+ 2â€“3 byte6CüdeepOBýÃ… \ðinset Quotes cldKý
+
+sZ'ÿr'Ñ langt bakover i datastrÃ¸mmen, gir stÃ¸rre sjarå for Ã¥ finne repetisjoner.rùSeparat.ûlatexzûlayou:þdeP(Hð Itemize
+men ogs|ôlenger kjÃ¸rÿdL>ùpÃ¥virk7÷formatet î referansene vÃ¥re}ÿiót Separator l3ÿxlÿ
+lyûdeepe(HÙ Itemize
+1 byte kan peke 255 tegn bakov7RDÿ2Dþ65{ñinset space \thþ{}Vû
+
+536s1ÿ3sþ16s-ý7770-ð215 tegn bakoverMûlayouNZüdeepb'Ù Itemize
+I blant kan vi ikke komprimere5yð Separator latexzÿ
+z`o}øMÃ¥ derfRýogsôha en mÃ¥te ýsi:UGøHer komm÷X bytes uýpriJüdataH$ßSlik informasjon tar ogsÃ¥ plass!ERúdeeper]øStandardtüinse÷eparator ûbreak\ÿ
+\i	QûFrameNêArgument 4
+status open9ùPlain LUìHva kan komprimeres?v`ÿ
+J	oñSeparator latex-G:ûdeepe(Hdí Itemize
+Vurdering:i_íSkal dette vÃ¦re enül av
+ûstÃ¸rîukomprimert blokk?j\ÜEvt.
+ bakover-ref + header for korte]\iúdeeperhúDet viPG`ømÃ¥ altsývÃ¦eülengxøenn saml2ùde for:XýinsKñSeparator latexû
+\endþ
+
+ûlayou:ûdeepe(Hæ Itemize
+en bakover-referagF8õheader for Cïukomprimert blokkCPúdeeperOýVi C	W÷ikke svÃ¦Pükortïtrenger, det hjelM(ÿ!l(øStandardýinsKöSeparator ûbreakPÿ
+P]	QûFrameNêArgument 4
+status open9ùPlain LUøEksempeljwTÿ
+w	cñSeparator latex-Gxûdeepe(Hdé Itemize
+Eksempeltekst:mWëStandard
+Problemer, p÷.
+ Alltid
+ÿ!Njö Newline nxï
+
+Dette er dagensWUlÿtP*óÃ¥ komprimereNôatisk tekst.~ûlayou;üdeepd
+ï Itemize
+Eksempel>ñ med avstander:3|ð Separator latexlÿ
+ly	m{ÿS_òard
+Problemer,jñFormula $^{10}$gþ p54ÿ24õ.
+ Alltid piÿ3igÿ!h÷Newline nh]ÿ4]öDette er d4ÿ54öagens probhÿ6hùlem.
+ P4ÿliÿ7iþemVþerf÷Newline nfýÃ¥ ^ÿ8^÷komprimerD4ÿ94ö problemathþ10iöisk tekst.5ÿ1jwûlayouxOúdeepery÷ Itemize
+BeÝgn, inkludert linjeskift og blanke.Y(øStandardpüinse÷eparator ûbreakPÿ
+P]	QûFrameNêArgument 4
+status open9ùPlain LUøEksempeljwTÿ
+w	cñSeparator latex-Gxûdeepe(HdÛ Itemize
+Eksempeltekst med avstander:{WÿS_òard
+Problemer,jñFormula $^{10}$gþ p54ÿ24õ.
+ Alltid piÿ3igÿ!h÷Newline nh]ÿ4]öDette er d4ÿ54öagens probhÿ6hùlem.
+ P4ÿliÿ7iþemVþerf÷Newline nfýÃ¥ ^ÿ8^÷komprimerD4ÿ94ö problemathþ10iöisk tekst.5ÿ1jwûlayouxOúdeeperyì Itemize
+Komprimert:fñSeparator latexh\jíStandard
+[12]Probleoê, p[-11,8][8].
+ Alltidö8,10][17]!Vrö Newline nû
+\endæ
+
+Dette er dagens[-27,7][2Yü[-65fRÿt#U*ðÃ¥ komprimere[-3Fò2]atisk tekst.1ûlayou2>üdeepg
+ó Itemize
+FÃ¸rV
+øing, 110Mûgn.
+ NBõMed 1 byte gó tallkode, 84Gzëinset Separator latexeÿ
+erýdee[Hò Standard
+Vi sTôte 110-84=26yõ, eller 23%VpTèItemize
+se ogsÃ¥ Lz-demo@(øStandardWüinse÷eparator ûbreakPÿ
+P]	QûFrameNêArgument 4
+status open9ùPlain LU÷KjÃ¸retidkxUÿ
+x	dñSeparator latex-Gyûdeepe(Hdö Itemize
+FKÕhver tegnposisjon i input, mÃ¥ vi sÃ¸ke ett)ólengste match*÷bufferet.}oùil med ïinset Formula $n$Eí
+
+ tegn, sirkulÃ¦rtmCöstÃ¸rrelseNÿmNÿ.\ûlayou]4Û Itemize
+Teste alle posisjoner, i verÿfpëO\left(nm^{2}\right)$u*ÿ
+usFñ Itemize
+I prak{ù gÃ¥r dbïbedre, sÃ¦rlig hvðdata varierer en)ÿl_$ÝKan bruke Boyer-Moore tekstsÃ¸k forpõ kjÃ¸retid.XeúdeeperdøStandard{üinseúeparatXûbreakPÿ
+P]	QûFrameNêArgument 4
+status open9ùPlain LUúLenkerhuRÿ
+u	añSeparator latex-GvüdeepbHdø Itemizeçmpel og Ziv sin artikkel:zWøStandard_ìFlex URL
+status openH	:ùPlain Ld´http://www.cs.duke.edu/courses/spring03/cps296.5/papers/ziv_lempel_1977_univêal_al
+gorithm.pdf
+\end{ÿ
+üinsezýdee]ù
+\begin5í Itemize
+Wikipedia:!Ið Separator latexg[iøStandard_ìFlex URL
+status openH	:ùPlain Ldçhttps://en.wikipedia.org/ù/Lempel{ôackslash
+%E2þ80ö93Ziv
+\endo~üinsenúdeeperoüeginA÷ StandardKõ Separator ûbreakiQûFrameNêArgument 4
+status open9ùPlain LUèKombinere LZ og Huffmannzdÿ
+N	sñSeparator latex-G:ûdeepe(Hdß Itemize
+LZ leser input, og skriv1L0übako9ø-referanVD6ûsekve-ê med ukomprimerte tegnCPüdeep\OAFólles opp, og a	ývidyòHuffmannkodingv(øStandardüinse÷eparator ûbreakPÿ
+P]	QûFrameNêArgument 4
+status open9ùPlain LUèLZW â€“ Lempel Ziv Welshzdÿ
+N	sñSeparator latex-G:ûdeepe(HdÑ Itemize
+Ligner LZ.
+ Teoretisk samme kompresjonêLettere Ã¥ speede opp.qcþesb?ý ogütegn9$üBygg:ßn ordliste (dictionary) underveisMúdeeper[ùtil Ã¥ wíynne med, alle 1-byhþÂ«sþÂ»YfWéFinn et (lengst mulig) Lù, skrivúnummer&wù fÃ¦rre,ù bits!)xlzólagre nytt Â«pöÂ» = dette~mý+ nfúe tegn_l]ñKompresjon hvisRõne blir lenzøenn numr^RôLZW+Huffman uåinset Formula $\rightarrow$S!ÿ
+S	0ìlex Noun
+status openwùPlain Lø
+DeflateT!Taò (brukt i zip)(|údeeperfüauseKX.ìItemize
+Se eksempel _ðinset Quotes cldTû
+
+lzw(ÿr(|núdeeperfù Standa=}öSeparator ûbreak]QûFrameNêArgument 4
+status open9ùPlain LUçKombinere LZW og Huffmann{eÿ
+O	tñSeparator latex-G:ûdeepe(Hdó Itemize
+LZW 62ôleser input,?gübygg2óen dictionary:&ûskrivmYðinset Quotes cld~ö
+
+ordnumre-ÿr-~Gúdeeperkò Itemize
+Noen ZÿlZÿoj((ä forekommer oftere enn andreQûlayouRvñ Itemize
+Progra?út finnF÷antall (fXþve|þr)eï ulike ordnumre, ^údeeperlûskrivböHuffmankodoúi stedd^\N,ü som8ûekommYîofte, fÃ¥r kortereeO\üdeepgøStandard~üinse÷eparator ûbreak\ÿ
+\i	QûFrameNêArgument 4
+status open9ùPlain LUèBZip2 blokk-komprimeringzdÿ
+N	sñSeparator latex-G:ûdeepe(Hdë Itemize
+Komprimerer í enn LZ-algoritmeneTFýEnu;ëate
+run-length coding7&óBurrows-Wheelçtransformasjon (hoveddel)O&ÿM/÷-To-FrontMýMFTH'érun-length coding igjen=&÷Huffmannk:q~údeeper}øStandardWüinseýepaUýor ûbreakPÿ
+P]	QûFrameNêArgument 4
+status open9ùPlain LUÕBurrows Wheeler transformasjonen (BWT)
+\endyOrÿ
+\	ð Separator latex-G:ûdeepe(HdÓ Itemize
+Hoveddelen av BZ2 (blokksorteringen)VHäDette steget komprimerer ikkúelv, meøtransforvnò (typisk 900kBq%ÿTIørepetertkûkvenszó(som ord) til"ütegnb$ÿRT	.ùmph on
+<÷default
+ ýlet~ôe Ã¥ komprimývidÿ!l$ðTransformasjonenUôreversibel (q\	üing)WdúdeepercøStandardzüinseúeparatWûbreakPÿ
+P]	QûFrameNêArgument 4
+status open9ùPlain LUÓEksempel, Burrows-Wheeler Transformasjon
+\end{Qtÿ
+^	ð Separator latex-G:ûdeepe(Hdì Itemize
+BWT pÃ¥ ord_möQuotes cldeôreferererâ—1ÿr1ù.
+ Tegn`(W(ï markerer sluttenuûlayouvkø ItemizeYóTabular
+<lyxtã version="3" rows="11" columnò2">
+<features 5îvalignment="middle&4ÿ ÿc"üer" 0ýtop--Zýrow`ýell^$õ bottomlineoïrue" usebox="none~î\begin_inset Text
+òlayout Plain LúseriesX÷ld
+RotasjHúr
+\end2ARö
+</cell>
+<ó alignment="cûer" vütop"Zøttomlineòrue" usebox="nj÷">
+\begin`ü Texqòlayout Plain LúseriesXúld
+Sorvút
+\end/>Oø
+</cell>ýrowó alignment="cûer" vætop" usebox="none">
+\begin[ü Texl{ø Plain Lòfamily typewricî
+referererâ€¢
+\end:IZö
+</cell>
+<ó alignment="cûer" vætop" usebox="none">
+\beginNü Tex_nø Plain L{òfamily typewricî
+eferererâ€¢r
+\end:IZø
+</cell>ýrowó alignment="cûer" vætop" usebox="none">
+\begin[ü Texl{ø Plain Lòfamily typewricõ
+â€¢refererü\end:IZö
+</cell>
+<ó alignment="cûer" vætop" usebox="none">
+\beginNü Tex_nø Plain L{òfamily typewricî
+erererâ€¢ref
+\end:IZø
+</cell>ýrowó alignment="cûer" vætop" usebox="none">
+\begin[ü Texl{ø Plain Lòfamily typewricî
+râ€¢referere
+\end:IZö
+</cell>
+<ó alignment="cûer" vætop" usebox="none">
+\beginNü Tex_nø Plain L{òfamily typewricõ
+ererâ€¢refü\end:IZø
+</cell>ýrowó alignment="cûer" vætop" usebox="none">
+\begin[ü Texl{ø Plain Lòfamily typewricõ
+erâ€¢referü\end:IZö
+</cell>
+<ó alignment="cûer" vætop" usebox="none">
+\beginNü Tex_nø Plain L{òfamily typewricõ
+erâ€¢referü\end:IZø
+</cell>ýrowó alignment="cûer" vætop" usebox="none">
+\begin[ü Texl{ø Plain Lòfamily typewricî
+rerâ€¢refere
+\end:IZö
+</cell>
+<ó alignment="cûer" vætop" usebox="none">
+\beginNü Tex_nø Plain L{òfamily typewricî
+ferererâ€¢re
+\end:IZø
+</cell>ýrowó alignment="cûer" vætop" usebox="none">
+\begin[ü Texl{ø Plain Lòfamily typewricõ
+ererâ€¢refü\end:IZö
+</cell>
+<ó alignment="cûer" vætop" usebox="none">
+\beginNü Tex_nø Plain L{òfamily typewricî
+referererâ€¢
+\end:IZø
+</cell>ýrowó alignment="cûer" vætop" usebox="none">
+\begin[ü Texl{ø Plain Lòfamily typewricî
+rererâ€¢refe
+\end:IZö
+</cell>
+<ó alignment="cûer" vætop" usebox="none">
+\beginNü Tex_nø Plain L{òfamily typewricî
+rererâ€¢refe
+\end:IZø
+</cell>ýrowó alignment="cûer" vætop" usebox="none">
+\begin[ü Texl{ø Plain Lòfamily typewricî
+erererâ€¢ref
+\end:IZö
+</cell>
+<ó alignment="cûer" vætop" usebox="none">
+\beginNü Tex_nø Plain L{òfamily typewricî
+rerâ€¢refere
+\end:IZø
+</cell>ýrowó alignment="cûer" vætop" usebox="none">
+\begin[ü Texl{ø Plain Lòfamily typewricî
+ferererâ€¢re
+\end:IZö
+</cell>
+<ó alignment="cûer" vætop" usebox="none">
+\beginNü Tex_nø Plain L{òfamily typewricî
+râ€¢referere
+\end:IZø
+</cell>ýrowó alignment="cûer" vætop" usebox="none">
+\begin[ü Texl{ø Plain Lòfamily typewricî
+eferererâ€¢r
+\end:IZö
+</cell>
+<ó alignment="cûer" vætop" usebox="none">
+\beginNü Tex_nø Plain L{òfamily typewricõ
+â€¢refererü\end:IZø
+</cell>ýrowõlyxtabular>)6C	ûbeginRÌ Itemize
+BWT er siste kolonne med tegn fra sortert l#þ, Hdõ Quotes cldzërfrre
+\family typewriFü
+â€¢	ödefault
+eeVÿrVcûlayoud2Ä Itemize
+NÃ¥ har vi mange like tegn ved siden av hverandre, Wúdeepereølettere lùkomprimÿm`ïrun-length coding]OúSe ogsMöbw brukt pZódiverse filerGTüdeep_øStandardvüinse÷eparator ûbreak\ÿ
+\i	QûFrameNêArgument 4
+status open9ùPlain LUØReversere Burrows-Wheeler transformasjonGü\end}Svÿ
+`	ð Separator latex-G:ûdeepe(Hdç Itemize
+Hvordan gÃ¥ fra oöQuotes cldgêrfrre
+\family typewritdýâ€¢	ödefault
+ee}
+VÿrVû til *ÿl*ørefererel	øtypewritjýâ€¢	údefaul[$ÿ?cûlayou3
+ö Itemize
+V@ýat QÿlQärfrre
+\family typewriter
+â€¢	ödefault
+eeVÿrVé er siste kolonne i sorXýt l.ûlayou/Sö Itemize
+LAîa bestod av ulike hïmph on
+rotasjonerødefault
+-'
+üsamm7	#ýordIþndtó
+
+\begin_deepPí Itemize
+alle kolontþ iüholdýde fùtegnene[hYïLista var sortertA5CèfÃ¸rste kolonne mÃ¥ altsìha de samme tegnene,i[Gyðinset Quotes cldCå
+
+eeeefrrrr
+\family typewrimü
+â€¢	údefault
+VÿrVcûlayou2püdeepS>È Itemize
+Vi har nÃ¥ to kolonner, i ei liste over rotasjobVdýkan@ðere sidelengs, ssÿsavö blir fÃ¸rvü, ogûandre}oýdetUÿeKõortsatt en wò av lÃ¸sningenJ$ÿsAþerJþviAVü, haÿ Aïmph on
+to fÃ¸rsteïdefault
+ kolonnenn"úÃ¥ kanmùlegge pþsiWHú igjenL$Dûhar nSþtr@	ñr.
+ Repeter tilj&ûalle!Vcþde,ÿrbõRiktig rad Nùden somu1ðinset Quotes cldbÿ
+bñfamily typewritiýâ€¢	údefaul)MÿrMð pÃ¥ siste plassjûlayouBwüdeepcNù StandaMeöSeparator ûbreakm]QûFrameNêArgument 4
+status open9ùPlain LUÓAnimasjon, reversere Burrows-Wheeler transfor*Rü\endO^üinsekð Separator latex-G:ûdeepe(Hdç Itemize
+Hvordan gÃ¥ fra oöQuotes cldgêrfrre
+\family typewritdýâ€¢	ödefault
+ee}
+VÿrVû til *ÿl*ørefererel	øtypewritjýâ€¢	údefaul[$ÿ?cûlayou3
+ù ItemizqIëFlex Only
+status open:ùPlain LV?öArgument 1@)à
+1,4,7,10,13,16,19,22,25,28
+\enduDgð
+
+Legg til siste(y7ê Flex Only
+status open$	hø Plain Lu?öArgument 1@)ã
+2,5,8,11,14,17,20,23,26
+\endrAdí
+
+Rotere mot hÃ¸yre+y:ê Flex Only
+status open$	kø Plain Lx?öArgument 1@)ã
+3,6,9,12,15,18,21,24,27
+\endrAd÷
+
+Sortere!;|ùLyX-Cod>Tê Flex Only
+status open;ùPlain Lq?öArgument 1@÷collapsedEù
+1
+\endapSÿ
+}	bùspace ~"<&ëFlex Only
+status open`	|ø Plain LM{öArgument 1@÷collapsedEã
+2,5,8,11,14,17,20,23,26
+\endwAiý
+
+ri*ê Flex Only
+status open$	[ø Plain Lh?öArgument 1@÷collapsedEÊ
+3-4,6-7,9-10,12-13,15-16,18-19,21-22,24-25,27-28
+\endKZüinseJÿeù
+\begin*ê Flex Only
+status open$	[ø Plain Lh?öArgument 1@÷collapsedE÷
+1-4
+\endcrUÿ
+	dùspace ~"<&ëFlex Only
+status open`	|ø Plain LM{öArgument 1@÷collapsedEå
+5,8,11,14,17,20,23,26
+\endu?gý
+
+eg*ê Flex Only
+status open$	[ø Plain Lh?öArgument 1@÷collapsedEÎ
+6-7,9-10,12-13,15-16,18-19,21-22,24-25,27-28
+\endGV~ý
+
+f~*ê Flex Only
+status open$	[ø Plain Lh?öArgument 1@÷collapsedE÷
+1-7
+\endcrUÿ
+	dùspace ~"<&ëFlex Only
+status open`	|ø Plain LM{öArgument 1@÷collapsedEç
+8,11,14,17,20,23,26
+\ends=eý
+
+fe*ê Flex Only
+status open$	[ø Plain Lh?öArgument 1@÷collapsedEÒ
+9-10,12-13,15-16,18-19,21-22,24-25,27-28
+\endCRzý
+
+ez*ê Flex Only
+status open$	[ø Plain Lh?öArgument 1@÷collapsedEö
+1-10
+\enddsVÿ
+;	eùspace ~"<&ëFlex Only
+status open`	|ø Plain LM{öArgument 1@÷collapsedEé
+11,14,17,20,23,26
+\endq;cý
+
+ec*ê Flex Only
+status open$	[ø Plain Lh?öArgument 1@÷collapsedE×
+12-13,15-16,18-19,21-22,24-25,27-28
+\end>Muý
+
+ru*ê Flex Only
+status open$	[ø Plain Lh?öArgument 1@÷collapsedEö
+1-13
+\enddsVÿ
+;	eùspace ~"<&ëFlex Only
+status open`	|ø Plain LM{öArgument 1@÷collapsedEì
+14,17,20,23,26
+\endn}`ý
+
+r`*ê Flex Only
+status open$	[ø Plain Lh?öArgument 1@÷collapsedEÝ
+15-16,18-19,21-22,24-25,27-28
+\end}Goý
+
+eo*ê Flex Only
+status open$	[ø Plain Lh?öArgument 1@÷collapsedEö
+1-16
+\enddsVÿ
+;	eùspace ~"<&ëFlex Only
+status open`	|ø Plain LM{öArgument 1@÷collapsedEï
+17,20,23,26
+\endkz]ý
+
+e]*ê Flex Only
+status open$	[ø Plain Lh?öArgument 1@÷collapsedEã
+18-19,21-22,24-25,27-28
+\endwAiý
+
+ri*ê Flex Only
+status open$	[ø Plain Lh?öArgument 1@÷collapsedEö
+1-19
+\enddsVÿ
+;	eùspace ~"<&ëFlex Only
+status open`	|ø Plain LM{öArgument 1@÷collapsedEò
+20,23,26
+\endhwZý
+
+rZ*ê Flex Only
+status open~?öArgument 1@÷collapsedEé
+21-22,24-25,27-28
+\endq;cý
+
+ec*ê Flex Only
+status open$	[ø Plain Lh?öArgument 1@÷collapsedEö
+1-22
+\enddsVÿ
+;	eùspace ~"<&ëFlex Only
+status open`	|ø Plain LM{öArgument 1@÷collapsedEõ
+23,26
+\endetWý
+
+eW*ê Flex Only
+status open{?öArgument 1@)ï
+24-25,27-28
+\endfuXý
+
+r]*ê Flex Only
+status open$	[ø Plain Lh?öArgument 1@÷collapsedEö
+1-25
+\enddsVÿ
+;	eùspace ~"<&ëFlex Only
+status open`	|ø Plain LM{öArgument 1@÷collapsedEø
+26
+\endbqTý
+
+r~÷Flex Only}üopenx?öArgument 1@)õ
+27-28
+\end`oRû
+
+â€¢~÷Flex Only})?öArgument 1@÷collapsedEà
+1,4,7,10,13,16,19,22,25,28
+\endzDlý
+
+r5yøLyX-CodeNê Flex Only
+status open;ùPlain Lq?öArgument 1@÷collapsedEù
+1
+\endapSÿ
+}	bùspace ~"<&ëFlex Only
+status open`	|ø Plain LM{öArgument 1@÷collapsedEã
+2,5,8,11,14,17,20,23,26
+\endwAiý
+
+fi*ê Flex Only
+status open$	[ø Plain Lh?öArgument 1@÷collapsedEÊ
+3-4,6-7,9-10,12-13,15-16,18-19,21-22,24-25,27-28
+\endKZüinseJÿeù
+\begin*ê Flex Only
+status open$	[ø Plain Lh?öArgument 1@÷collapsedE÷
+1-4
+\endcrUÿ
+	dùspace ~"<&ëFlex Only
+status open`	|ø Plain LM{öArgument 1@÷collapsedEå
+5,8,11,14,17,20,23,26
+\endu?gý
+
+eg*ê Flex Only
+status open$	[ø Plain Lh?öArgument 1@÷collapsedEÎ
+6-7,9-10,12-13,15-16,18-19,21-22,24-25,27-28
+\endGV~ý
+
+r~*ê Flex Only
+status open$	[ø Plain Lh?öArgument 1@÷collapsedE÷
+1-7
+\endcrUÿ
+	dùspace ~"<&ëFlex Only
+status open`	|ø Plain LM{öArgument 1@÷collapsedEç
+8,11,14,17,20,23,26
+\ends=eý
+
+re*ê Flex Only
+status open$	[ø Plain Lh?öArgument 1@÷collapsedEÒ
+9-10,12-13,15-16,18-19,21-22,24-25,27-28
+\endCRzý
+
+ez*ê Flex Only
+status open$	[ø Plain Lh?öArgument 1@÷collapsedEö
+1-10
+\enddsVÿ
+;	eùspace ~"<&ëFlex Only
+status open`	|ø Plain LM{öArgument 1@÷collapsedEé
+11,14,17,20,23,26
+\endq;cý
+
+ec*ê Flex Only
+status open$	[ø Plain Lh?öArgument 1@÷collapsedE×
+12-13,15-16,18-19,21-22,24-25,27-28
+\end>Muý
+
+ru*ê Flex Only
+status open$	[ø Plain Lh?öArgument 1@÷collapsedEö
+1-13
+\enddsVÿ
+;	eùspace ~"<&ëFlex Only
+status open`	|ø Plain LM{öArgument 1@÷collapsedEì
+14,17,20,23,26
+\endn}`ý
+
+r`*ê Flex Only
+status open$	[ø Plain Lh?öArgument 1@÷collapsedEÝ
+15-16,18-19,21-22,24-25,27-28
+\end}Goý
+
+eo*ê Flex Only
+status open$	[ø Plain Lh?öArgument 1@÷collapsedEö
+1-16
+\enddsVÿ
+;	eùspace ~"<&ëFlex Only
+status open`	|ø Plain LM{öArgument 1@÷collapsedEï
+17,20,23,26
+\endkz]ý
+
+e]*ê Flex Only
+status open$	[ø Plain Lh?öArgument 1@÷collapsedEã
+18-19,21-22,24-25,27-28
+\endwAiý
+
+ri*ê Flex Only
+status open$	[ø Plain Lh?öArgument 1@÷collapsedEö
+1-19
+\enddsVÿ
+;	eùspace ~"<&ëFlex Only
+status open`	|ø Plain LM{öArgument 1@÷collapsedEò
+20,23,26
+\endhwZý
+
+rZ*ê Flex Only
+status open~?öArgument 1@÷collapsedEé
+21-22,24-25,27-28
+\endq;cû
+
+â€¢e,ê Flex Only
+status open$	]ø Plain Lj?öArgument 1@÷collapsedEö
+1-22
+\enddsVÿ
+;	eùspace ~"<&ëFlex Only
+status open`	|ø Plain LM{öArgument 1@÷collapsedEõ
+23,26
+\endetWû
+
+â€¢Y,ê Flex Only
+status open}?öArgument 1@)ï
+24-25,27-28
+\endfuXý
+
+r]*ê Flex Only
+status open$	[ø Plain Lh?öArgument 1@÷collapsedEö
+1-25
+\enddsVÿ
+;	eùspace ~"<&ëFlex Only
+status open`	|ø Plain LM{öArgument 1@÷collapsedEø
+26
+\endbqTý
+
+r~÷Flex Only}üopenx?öArgument 1@)õ
+27-28
+\end`oRý
+
+e|÷Flex Only{)?öArgument 1@÷collapsedEà
+1,4,7,10,13,16,19,22,25,28
+\endzDlý
+
+f5yøLyX-CodeNê Flex Only
+status open;ùPlain Lq?öArgument 1@÷collapsedEù
+1
+\endapSÿ
+}	bùspace ~"<&ëFlex Only
+status open`	|ø Plain LM{öArgument 1@÷collapsedEã
+2,5,8,11,14,17,20,23,26
+\endwAiý
+
+ri*ê Flex Only
+status open$	[ø Plain Lh?öArgument 1@÷collapsedEÊ
+3-4,6-7,9-10,12-13,15-16,18-19,21-22,24-25,27-28
+\endKZüinseJÿeù
+\begin*ê Flex Only
+status open$	[ø Plain Lh?öArgument 1@÷collapsedE÷
+1-4
+\endcrUÿ
+	dùspace ~"<&ëFlex Only
+status open`	|ø Plain LM{öArgument 1@÷collapsedEå
+5,8,11,14,17,20,23,26
+\endu?gý
+
+eg*ê Flex Only
+status open$	[ø Plain Lh?öArgument 1@÷collapsedEÎ
+6-7,9-10,12-13,15-16,18-19,21-22,24-25,27-28
+\endGV~ý
+
+r~*ê Flex Only
+status open$	[ø Plain Lh?öArgument 1@÷collapsedE÷
+1-7
+\endcrUÿ
+	dùspace ~"<&ëFlex Only
+status open`	|ø Plain LM{öArgument 1@÷collapsedEç
+8,11,14,17,20,23,26
+\ends=eý
+
+re*ê Flex Only
+status open$	[ø Plain Lh?öArgument 1@÷collapsedEÒ
+9-10,12-13,15-16,18-19,21-22,24-25,27-28
+\endCRzý
+
+ez*ê Flex Only
+status open$	[ø Plain Lh?öArgument 1@÷collapsedEö
+1-10
+\enddsVÿ
+;	eùspace ~"<&ëFlex Only
+status open`	|ø Plain LM{öArgument 1@÷collapsedEé
+11,14,17,20,23,26
+\endq;cý
+
+ec*ê Flex Only
+status open$	[ø Plain Lh?öArgument 1@÷collapsedE×
+12-13,15-16,18-19,21-22,24-25,27-28
+\end>Muý
+
+ru*ê Flex Only
+status open$	[ø Plain Lh?öArgument 1@÷collapsedEö
+1-13
+\enddsVÿ
+;	eùspace ~"<&ëFlex Only
+status open`	|ø Plain LM{öArgument 1@÷collapsedEì
+14,17,20,23,26
+\endn}`ý
+
+r`*ê Flex Only
+status open$	[ø Plain Lh?öArgument 1@÷collapsedEÝ
+15-16,18-19,21-22,24-25,27-28
+\end}Goû
+
+â€¢q,ê Flex Only
+status open$	]ø Plain Lj?öArgument 1@÷collapsedEö
+1-16
+\enddsVÿ
+;	eùspace ~"<&ëFlex Only
+status open`	|ø Plain LM{öArgument 1@÷collapsedEï
+17,20,23,26
+\endkz]û
+
+â€¢_,ê Flex Only
+status open$	]ø Plain Lj?öArgument 1@÷collapsedEã
+18-19,21-22,24-25,27-28
+\endwAiý
+
+ri*ê Flex Only
+status open$	[ø Plain Lh?öArgument 1@÷collapsedEö
+1-19
+\enddsVÿ
+;	eùspace ~"<&ëFlex Only
+status open`	|ø Plain LM{öArgument 1@÷collapsedEò
+20,23,26
+\endhwZý
+
+rZ*ê Flex Only
+status open~?öArgument 1@÷collapsedEé
+21-22,24-25,27-28
+\endq;cý
+
+ec*ê Flex Only
+status open$	[ø Plain Lh?öArgument 1@÷collapsedEö
+1-22
+\enddsVÿ
+;	eùspace ~"<&ëFlex Only
+status open`	|ø Plain LM{öArgument 1@÷collapsedEõ
+23,26
+\endetWý
+
+eW*ê Flex Only
+status open{?öArgument 1@)ï
+24-25,27-28
+\endfuXý
+
+f]*ê Flex Only
+status open$	[ø Plain Lh?öArgument 1@÷collapsedEö
+1-25
+\enddsVÿ
+;	eùspace ~"<&ëFlex Only
+status open`	|ø Plain LM{öArgument 1@÷collapsedEø
+26
+\endbqTý
+
+f~÷Flex Only}üopenx?öArgument 1@)õ
+27-28
+\end`oRý
+
+e|÷Flex Only{)?öArgument 1@÷collapsedEà
+1,4,7,10,13,16,19,22,25,28
+\endzDlý
+
+r5yøLyX-CodeNê Flex Only
+status open;ùPlain Lq?öArgument 1@÷collapsedEù
+1
+\endapSÿ
+}	bùspace ~"<&ëFlex Only
+status open`	|ø Plain LM{öArgument 1@÷collapsedEã
+2,5,8,11,14,17,20,23,26
+\endwAiý
+
+ri*ê Flex Only
+status open$	[ø Plain Lh?öArgument 1@÷collapsedEÊ
+3-4,6-7,9-10,12-13,15-16,18-19,21-22,24-25,27-28
+\endKZüinseJÿeù
+\begin*ê Flex Only
+status open$	[ø Plain Lh?öArgument 1@÷collapsedE÷
+1-4
+\endcrUÿ
+	dùspace ~"<&ëFlex Only
+status open`	|ø Plain LM{öArgument 1@÷collapsedEå
+5,8,11,14,17,20,23,26
+\endu?gý
+
+eg*ê Flex Only
+status open$	[ø Plain Lh?öArgument 1@÷collapsedEÎ
+6-7,9-10,12-13,15-16,18-19,21-22,24-25,27-28
+\endGV~ý
+
+r~*ê Flex Only
+status open$	[ø Plain Lh?öArgument 1@÷collapsedE÷
+1-7
+\endcrUÿ
+	dùspace ~"<&ëFlex Only
+status open`	|ø Plain LM{öArgument 1@÷collapsedEç
+8,11,14,17,20,23,26
+\ends=eý
+
+re*ê Flex Only
+status open$	[ø Plain Lh?öArgument 1@÷collapsedEÒ
+9-10,12-13,15-16,18-19,21-22,24-25,27-28
+\endCRzÿ
+_ëfamily typewriter
+â€¢1ûbegin@ê Flex Only
+status open$	qø Plain L~?öArgument 1@÷collapsedEö
+1-10
+\enddsVÿ
+;	eùspace ~"<&ëFlex Only
+status open`	|ø Plain LM{öArgument 1@÷collapsedEé
+11,14,17,20,23,26
+\endq;cû
+
+â€¢e,ê Flex Only
+status open$	]ø Plain Lj?öArgument 1@÷collapsedE×
+12-13,15-16,18-19,21-22,24-25,27-28
+\end>Muý
+
+ru*ê Flex Only
+status open$	[ø Plain Lh?öArgument 1@÷collapsedEö
+1-13
+\enddsVÿ
+;	eùspace ~"<&ëFlex Only
+status open`	|ø Plain LM{öArgument 1@÷collapsedEì
+14,17,20,23,26
+\endn}`ý
+
+r`*ê Flex Only
+status open$	[ø Plain Lh?öArgument 1@÷collapsedEÝ
+15-16,18-19,21-22,24-25,27-28
+\end}Goý
+
+eo*ê Flex Only
+status open$	[ø Plain Lh?öArgument 1@÷collapsedEö
+1-16
+\enddsVÿ
+;	eùspace ~"<&ëFlex Only
+status open`	|ø Plain LM{öArgument 1@÷collapsedEï
+17,20,23,26
+\endkz]ý
+
+e]*ê Flex Only
+status open$	[ø Plain Lh?öArgument 1@÷collapsedEã
+18-19,21-22,24-25,27-28
+\endwAiý
+
+fi*ê Flex Only
+status open$	[ø Plain Lh?öArgument 1@÷collapsedEö
+1-19
+\enddsVÿ
+;	eùspace ~"<&ëFlex Only
+status open`	|ø Plain LM{öArgument 1@÷collapsedEò
+20,23,26
+\endhwZý
+
+fZ*ê Flex Only
+status open~?öArgument 1@÷collapsedEé
+21-22,24-25,27-28
+\endq;cý
+
+ec*ê Flex Only
+status open$	[ø Plain Lh?öArgument 1@÷collapsedEö
+1-22
+\enddsVÿ
+;	eùspace ~"<&ëFlex Only
+status open`	|ø Plain LM{öArgument 1@÷collapsedEõ
+23,26
+\endetWý
+
+eW*ê Flex Only
+status open{?öArgument 1@)ï
+24-25,27-28
+\endfuXý
+
+r]*ê Flex Only
+status open$	[ø Plain Lh?öArgument 1@÷collapsedEö
+1-25
+\enddsVÿ
+;	eùspace ~"<&ëFlex Only
+status open`	|ø Plain LM{öArgument 1@÷collapsedEø
+26
+\endbqTý
+
+r~÷Flex Only}üopenx?öArgument 1@)õ
+27-28
+\end`oRý
+
+e|÷Flex Only{)?öArgument 1@÷collapsedEà
+1,4,7,10,13,16,19,22,25,28
+\endzDlý
+
+r5yøLyX-CodeNê Flex Only
+status open;ùPlain Lq?öArgument 1@÷collapsedEù
+1
+\endapSÿ
+}	bùspace ~"<&ëFlex Only
+status open`	|ø Plain LM{öArgument 1@÷collapsedEã
+2,5,8,11,14,17,20,23,26
+\endwAiý
+
+ei*ê Flex Only
+status open$	[ø Plain Lh?öArgument 1@÷collapsedEÊ
+3-4,6-7,9-10,12-13,15-16,18-19,21-22,24-25,27-28
+\endKZüinseJÿfù
+\begin*ê Flex Only
+status open$	[ø Plain Lh?öArgument 1@÷collapsedE÷
+1-4
+\endcrUÿ
+	dùspace ~"<&ëFlex Only
+status open`	|ø Plain LM{öArgument 1@÷collapsedEå
+5,8,11,14,17,20,23,26
+\endu?gý
+
+fg*ê Flex Only
+status open$	[ø Plain Lh?öArgument 1@÷collapsedEÎ
+6-7,9-10,12-13,15-16,18-19,21-22,24-25,27-28
+\endGV~ý
+
+e~*ê Flex Only
+status open$	[ø Plain Lh?öArgument 1@÷collapsedE÷
+1-7
+\endcrUÿ
+	dùspace ~"<&ëFlex Only
+status open`	|ø Plain LM{öArgument 1@÷collapsedEç
+8,11,14,17,20,23,26
+\ends=eý
+
+ee*ê Flex Only
+status open$	[ø Plain Lh?öArgument 1@÷collapsedEÒ
+9-10,12-13,15-16,18-19,21-22,24-25,27-28
+\endCRzý
+
+rz*ê Flex Only
+status open$	[ø Plain Lh?öArgument 1@÷collapsedEö
+1-10
+\enddsVÿ
+;	eùspace ~"<&ëFlex Only
+status open`	|ø Plain LM{öArgument 1@÷collapsedEé
+11,14,17,20,23,26
+\endq;cý
+
+rc*ê Flex Only
+status open$	[ø Plain Lh?öArgument 1@÷collapsedE×
+12-13,15-16,18-19,21-22,24-25,27-28
+\end>Muý
+
+eu*ê Flex Only
+status open$	[ø Plain Lh?öArgument 1@÷collapsedEö
+1-13
+\enddsVÿ
+;	eùspace ~"<&ëFlex Only
+status open`	|ø Plain LM{öArgument 1@÷collapsedEì
+14,17,20,23,26
+\endn}`ý
+
+e`*ê Flex Only
+status open$	[ø Plain Lh?öArgument 1@÷collapsedEÝ
+15-16,18-19,21-22,24-25,27-28
+\end}Goý
+
+ro*ê Flex Only
+status open$	[ø Plain Lh?öArgument 1@÷collapsedEö
+1-16
+\enddsVÿ
+;	eùspace ~"<&ëFlex Only
+status open`	|ø Plain LM{öArgument 1@÷collapsedEï
+17,20,23,26
+\endkz]ý
+
+r]*ê Flex Only
+status open$	[ø Plain Lh?öArgument 1@÷collapsedEã
+18-19,21-22,24-25,27-28
+\endwAiý
+
+ei*ê Flex Only
+status open$	[ø Plain Lh?öArgument 1@÷collapsedEö
+1-19
+\enddsVÿ
+;	eùspace ~"<&ëFlex Only
+status open`	|ø Plain LM{öArgument 1@÷collapsedEò
+20,23,26
+\endhwZý
+
+eZ*ê Flex Only
+status open~?öArgument 1@÷collapsedEé
+21-22,24-25,27-28
+\endq;cý
+
+rc*ê Flex Only
+status open$	[ø Plain Lh?öArgument 1@÷collapsedEö
+1-22
+\enddsVÿ
+;	eùspace ~"<&ëFlex Only
+status open`	|ø Plain LM{öArgument 1@÷collapsedEõ
+23,26
+\endetWý
+
+rW*ê Flex Only
+status open{?öArgument 1@)ï
+24-25,27-28
+\endfuXû
+
+â€¢_,ê Flex Only
+status open$	]ø Plain Lj?öArgument 1@÷collapsedEö
+1-25
+\enddsVÿ
+;	eùspace ~"<&ëFlex Only
+status open`	|ø Plain LM{öArgument 1@÷collapsedEø
+26
+\endbqTû
+
+â€¢V,ö Flex Onlyüopenz?öArgument 1@)õ
+27-28
+\end`oRý
+
+r|÷Flex Only{)?öArgument 1@÷collapsedEà
+1,4,7,10,13,16,19,22,25,28
+\endzDlý
+
+e5yùLyX-Cod>Nê Flex Only
+status open;ùPlain Lq?öArgument 1@÷collapsedEù
+1
+\endapSÿ
+}	bùspace ~"<&ëFlex Only
+status open`	|ø Plain LM{öArgument 1@÷collapsedEã
+2,5,8,11,14,17,20,23,26
+\endwAiÿ
+Nëfamily typewriter
+â€¢1@ê Flex Only
+status open$	qø Plain L~?öArgument 1@÷collapsedEÊ
+3-4,6-7,9-10,12-13,15-16,18-19,21-22,24-25,27-28
+\endKZüinseJÿrù
+\begin*ê Flex Only
+status open$	[ø Plain Lh?öArgument 1@÷collapsedE÷
+1-4
+\endcrUÿ
+	dùspace ~"<&ëFlex Only
+status open`	|ø Plain LM{öArgument 1@÷collapsedEå
+5,8,11,14,17,20,23,26
+\endu?gý
+
+rg*ê Flex Only
+status open$	[ø Plain Lh?öArgument 1@÷collapsedEÎ
+6-7,9-10,12-13,15-16,18-19,21-22,24-25,27-28
+\endGV~ý
+
+e~*ê Flex Only
+status open$	[ø Plain Lh?öArgument 1@÷collapsedE÷
+1-7
+\endcrUÿ
+	dùspace ~"<&ëFlex Only
+status open`	|ø Plain LM{öArgument 1@÷collapsedEç
+8,11,14,17,20,23,26
+\ends=eý
+
+ee*ê Flex Only
+status open$	[ø Plain Lh?öArgument 1@÷collapsedEÒ
+9-10,12-13,15-16,18-19,21-22,24-25,27-28
+\endCRzý
+
+fz*ê Flex Only
+status open$	[ø Plain Lh?öArgument 1@÷collapsedEö
+1-10
+\enddsVÿ
+;	eùspace ~"<&ëFlex Only
+status open`	|ø Plain LM{öArgument 1@÷collapsedEé
+11,14,17,20,23,26
+\endq;cý
+
+fc*ê Flex Only
+status open$	[ø Plain Lh?öArgument 1@÷collapsedE×
+12-13,15-16,18-19,21-22,24-25,27-28
+\end>Muý
+
+eu*ê Flex Only
+status open$	[ø Plain Lh?öArgument 1@÷collapsedEö
+1-13
+\enddsVÿ
+;	eùspace ~"<&ëFlex Only
+status open`	|ø Plain LM{öArgument 1@÷collapsedEì
+14,17,20,23,26
+\endn}`ý
+
+e`*ê Flex Only
+status open$	[ø Plain Lh?öArgument 1@÷collapsedEÝ
+15-16,18-19,21-22,24-25,27-28
+\end}Goý
+
+ro*ê Flex Only
+status open$	[ø Plain Lh?öArgument 1@÷collapsedEö
+1-16
+\enddsVÿ
+;	eùspace ~"<&ëFlex Only
+status open`	|ø Plain LM{öArgument 1@÷collapsedEï
+17,20,23,26
+\endkz]ý
+
+r]*ê Flex Only
+status open$	[ø Plain Lh?öArgument 1@÷collapsedEã
+18-19,21-22,24-25,27-28
+\endwAiý
+
+ei*ê Flex Only
+status open$	[ø Plain Lh?öArgument 1@÷collapsedEö
+1-19
+\enddsVÿ
+;	eùspace ~"<&ëFlex Only
+status open`	|ø Plain LM{öArgument 1@÷collapsedEò
+20,23,26
+\endhwZý
+
+eZ*ê Flex Only
+status open~?öArgument 1@÷collapsedEé
+21-22,24-25,27-28
+\endq;cý
+
+rc*ê Flex Only
+status open$	[ø Plain Lh?öArgument 1@÷collapsedEö
+1-22
+\enddsVÿ
+;	eùspace ~"<&ëFlex Only
+status open`	|ø Plain LM{öArgument 1@÷collapsedEõ
+23,26
+\endetWý
+
+rW*ê Flex Only
+status open{?öArgument 1@)ï
+24-25,27-28
+\endfuXý
+
+e]*ê Flex Only
+status open$	[ø Plain Lh?öArgument 1@÷collapsedEö
+1-25
+\enddsVÿ
+;	eùspace ~"<&ëFlex Only
+status open`	|ø Plain LM{öArgument 1@÷collapsedEø
+26
+\endbqTý
+
+e~÷Flex Only}üopenx?öArgument 1@)õ
+27-28
+\end`oRý
+
+r|÷Flex Only{)?öArgument 1@÷collapsedEà
+1,4,7,10,13,16,19,22,25,28
+\endzDlÿ
+Qëfamily typewriter
+â€¢1ø 
+\beginAê Flex Only
+status openc$rø Plain L?öArgument 1@)ø
+28
+\end]lOÿ
+y	^èFormula $\Longleftarrow$3ü DerQk^z÷ LyX-Codeuìlex Only
+status open;ùPlain Lq?öArgument 1@÷collapsedEù
+1
+\endapSÿ
+}	bùspace ~"<&ëFlex Only
+status open`	|ø Plain LM{öArgument 1@÷collapsedEã
+2,5,8,11,14,17,20,23,26
+\endwAiý
+
+ei*ê Flex Only
+status open$	[ø Plain Lh?öArgument 1@÷collapsedEÊ
+3-4,6-7,9-10,12-13,15-16,18-19,21-22,24-25,27-28
+\endKZüinseJÿrù
+\begin*ê Flex Only
+status open$	[ø Plain Lh?öArgument 1@÷collapsedE÷
+1-4
+\endcrUÿ
+	dùspace ~"<&ëFlex Only
+status open`	|ø Plain LM{öArgument 1@÷collapsedEå
+5,8,11,14,17,20,23,26
+\endu?gý
+
+rg*ê Flex Only
+status open$	[ø Plain Lh?öArgument 1@÷collapsedEÎ
+6-7,9-10,12-13,15-16,18-19,21-22,24-25,27-28
+\endGV~ý
+
+e~*ê Flex Only
+status open$	[ø Plain Lh?öArgument 1@÷collapsedE÷
+1-7
+\endcrUÿ
+	dùspace ~"<&ëFlex Only
+status open`	|ø Plain LM{öArgument 1@÷collapsedEç
+8,11,14,17,20,23,26
+\ends=eý
+
+ee*ê Flex Only
+status open$	[ø Plain Lh?öArgument 1@÷collapsedEÒ
+9-10,12-13,15-16,18-19,21-22,24-25,27-28
+\endCRzý
+
+rz*ê Flex Only
+status open$	[ø Plain Lh?öArgument 1@÷collapsedEö
+1-10
+\enddsVÿ
+;	eùspace ~"<&ëFlex Only
+status open`	|ø Plain LM{öArgument 1@÷collapsedEé
+11,14,17,20,23,26
+\endq;cý
+
+rc*ê Flex Only
+status open$	[ø Plain Lh?öArgument 1@÷collapsedE×
+12-13,15-16,18-19,21-22,24-25,27-28
+\end>Muý
+
+eu*ê Flex Only
+status open$	[ø Plain Lh?öArgument 1@÷collapsedEö
+1-13
+\enddsVÿ
+;	eùspace ~"<&ëFlex Only
+status open`	|ø Plain LM{öArgument 1@÷collapsedEì
+14,17,20,23,26
+\endn}`ý
+
+e`*ê Flex Only
+status open$	[ø Plain Lh?öArgument 1@÷collapsedEÝ
+15-16,18-19,21-22,24-25,27-28
+\end}Goý
+
+ro*ê Flex Only
+status open$	[ø Plain Lh?öArgument 1@÷collapsedEö
+1-16
+\enddsVÿ
+;	eùspace ~"<&ëFlex Only
+status open`	|ø Plain LM{öArgument 1@÷collapsedEï
+17,20,23,26
+\endkz]ý
+
+r]*ê Flex Only
+status open$	[ø Plain Lh?öArgument 1@÷collapsedEã
+18-19,21-22,24-25,27-28
+\endwAiû
+
+â€¢k,ê Flex Only
+status open$	]ø Plain Lj?öArgument 1@÷collapsedEö
+1-19
+\enddsVÿ
+;	eùspace ~"<&ëFlex Only
+status open`	|ø Plain LM{öArgument 1@÷collapsedEò
+20,23,26
+\endhwZû
+
+â€¢\,ê Flex Only
+status open$	]ø Plain Lj?öArgument 1@÷collapsedEé
+21-22,24-25,27-28
+\endq;cý
+
+rc*ê Flex Only
+status open$	[ø Plain Lh?öArgument 1@÷collapsedEö
+1-22
+\enddsVÿ
+;	eùspace ~"<&ëFlex Only
+status open`	|ø Plain LM{öArgument 1@÷collapsedEõ
+23,26
+\endetWý
+
+rW*ê Flex Only
+status open{?öArgument 1@)ï
+24-25,27-28
+\endfuXý
+
+e]*ê Flex Only
+status open$	[ø Plain Lh?öArgument 1@÷collapsedEö
+1-25
+\enddsVÿ
+;	eùspace ~"<&ëFlex Only
+status open`	|ø Plain LM{öArgument 1@÷collapsedEø
+26
+\endbqTý
+
+e~÷Flex Only}üopenx?öArgument 1@)õ
+27-28
+\end`oRý
+
+f|÷Flex Only{)?öArgument 1@÷collapsedEà
+1,4,7,10,13,16,19,22,25,28
+\endzDlý
+
+e5yùLyX-Cod>Nê Flex Only
+status open;ùPlain Lq?öArgument 1@÷collapsedEù
+1
+\endapSÿ
+}	bùspace ~"<&ëFlex Only
+status open`	|ø Plain LM{öArgument 1@÷collapsedEã
+2,5,8,11,14,17,20,23,26
+\endwAiý
+
+ei*ê Flex Only
+status open$	[ø Plain Lh?öArgument 1@÷collapsedEÊ
+3-4,6-7,9-10,12-13,15-16,18-19,21-22,24-25,27-28
+\endKZüinseJÿrù
+\begin*ê Flex Only
+status open$	[ø Plain Lh?öArgument 1@÷collapsedE÷
+1-4
+\endcrUÿ
+	dùspace ~"<&ëFlex Only
+status open`	|ø Plain LM{öArgument 1@÷collapsedEå
+5,8,11,14,17,20,23,26
+\endu?gý
+
+rg*ê Flex Only
+status open$	[ø Plain Lh?öArgument 1@÷collapsedEÎ
+6-7,9-10,12-13,15-16,18-19,21-22,24-25,27-28
+\endGV~ý
+
+e~*ê Flex Only
+status open$	[ø Plain Lh?öArgument 1@÷collapsedE÷
+1-7
+\endcrUÿ
+	dùspace ~"<&ëFlex Only
+status open`	|ø Plain LM{öArgument 1@÷collapsedEç
+8,11,14,17,20,23,26
+\ends=eý
+
+ee*ê Flex Only
+status open$	[ø Plain Lh?öArgument 1@÷collapsedEÒ
+9-10,12-13,15-16,18-19,21-22,24-25,27-28
+\endCRzý
+
+rz*ê Flex Only
+status open$	[ø Plain Lh?öArgument 1@÷collapsedEö
+1-10
+\enddsVÿ
+;	eùspace ~"<&ëFlex Only
+status open`	|ø Plain LM{öArgument 1@÷collapsedEé
+11,14,17,20,23,26
+\endq;cý
+
+rc*ê Flex Only
+status open$	[ø Plain Lh?öArgument 1@÷collapsedE×
+12-13,15-16,18-19,21-22,24-25,27-28
+\end>Muû
+
+â€¢w,ê Flex Only
+status open$	]ø Plain Lj?öArgument 1@÷collapsedEö
+1-13
+\enddsVÿ
+;	eùspace ~"<&ëFlex Only
+status open`	|ø Plain LM{öArgument 1@÷collapsedEì
+14,17,20,23,26
+\endn}`û
+
+â€¢b,ê Flex Only
+status open$	]ø Plain Lj?öArgument 1@÷collapsedEÝ
+15-16,18-19,21-22,24-25,27-28
+\end}Goý
+
+ro*ê Flex Only
+status open$	[ø Plain Lh?öArgument 1@÷collapsedEö
+1-16
+\enddsVÿ
+;	eùspace ~"<&ëFlex Only
+status open`	|ø Plain LM{öArgument 1@÷collapsedEï
+17,20,23,26
+\endkz]ý
+
+r]*ê Flex Only
+status open$	[ø Plain Lh?öArgument 1@÷collapsedEã
+18-19,21-22,24-25,27-28
+\endwAiý
+
+ei*ê Flex Only
+status open$	[ø Plain Lh?öArgument 1@÷collapsedEö
+1-19
+\enddsVÿ
+;	eùspace ~"<&ëFlex Only
+status open`	|ø Plain LM{öArgument 1@÷collapsedEò
+20,23,26
+\endhwZý
+
+eZ*ê Flex Only
+status open~?öArgument 1@÷collapsedEé
+21-22,24-25,27-28
+\endq;cý
+
+fc*ê Flex Only
+status open$	[ø Plain Lh?öArgument 1@÷collapsedEö
+1-22
+\enddsVÿ
+;	eùspace ~"<&ëFlex Only
+status open`	|ø Plain LM{öArgument 1@÷collapsedEõ
+23,26
+\endetWý
+
+fW*ê Flex Only
+status open{?öArgument 1@)ï
+24-25,27-28
+\endfuXý
+
+e]*ê Flex Only
+status open$	[ø Plain Lh?öArgument 1@÷collapsedEö
+1-25
+\enddsVÿ
+;	eùspace ~"<&ëFlex Only
+status open`	|ø Plain LM{öArgument 1@÷collapsedEø
+26
+\endbqTý
+
+e~÷Flex Only}üopenx?öArgument 1@)õ
+27-28
+\end`oRý
+
+r|÷Flex Only{)?öArgument 1@÷collapsedEà
+1,4,7,10,13,16,19,22,25,28
+\endzDlý
+
+e5yùLyX-Cod>Nê Flex Only
+status open;ùPlain Lq?öArgument 1@÷collapsedEù
+1
+\endapSÿ
+}	bùspace ~"<&ëFlex Only
+status open`	|ø Plain LM{öArgument 1@÷collapsedEã
+2,5,8,11,14,17,20,23,26
+\endwAiý
+
+ei*ê Flex Only
+status open$	[ø Plain Lh?öArgument 1@÷collapsedEÊ
+3-4,6-7,9-10,12-13,15-16,18-19,21-22,24-25,27-28
+\endKZüinseJÿrù
+\begin*ê Flex Only
+status open$	[ø Plain Lh?öArgument 1@÷collapsedE÷
+1-4
+\endcrUÿ
+	dùspace ~"<&ëFlex Only
+status open`	|ø Plain LM{öArgument 1@÷collapsedEå
+5,8,11,14,17,20,23,26
+\endu?gý
+
+rg*ê Flex Only
+status open$	[ø Plain Lh?öArgument 1@÷collapsedEÎ
+6-7,9-10,12-13,15-16,18-19,21-22,24-25,27-28
+\endGV~ÿ
+cëfamily typewriter
+â€¢1ûbegin@ê Flex Only
+status open$	qø Plain L~?öArgument 1@÷collapsedE÷
+1-7
+\endcrUÿ
+	dùspace ~"<&ëFlex Only
+status open`	|ø Plain LM{öArgument 1@÷collapsedEç
+8,11,14,17,20,23,26
+\ends=eÿ
+Jëfamily typewriter
+â€¢1{@ê Flex Only
+status open$	qø Plain L~?öArgument 1@÷collapsedEÒ
+9-10,12-13,15-16,18-19,21-22,24-25,27-28
+\endCRzý
+
+rz*ê Flex Only
+status open$	[ø Plain Lh?öArgument 1@÷collapsedEö
+1-10
+\enddsVÿ
+;	eùspace ~"<&ëFlex Only
+status open`	|ø Plain LM{öArgument 1@÷collapsedEé
+11,14,17,20,23,26
+\endq;cý
+
+rc*ê Flex Only
+status open$	[ø Plain Lh?öArgument 1@÷collapsedE×
+12-13,15-16,18-19,21-22,24-25,27-28
+\end>Muý
+
+eu*ê Flex Only
+status open$	[ø Plain Lh?öArgument 1@÷collapsedEö
+1-13
+\enddsVÿ
+;	eùspace ~"<&ëFlex Only
+status open`	|ø Plain LM{öArgument 1@÷collapsedEì
+14,17,20,23,26
+\endn}`ý
+
+e`*ê Flex Only
+status open$	[ø Plain Lh?öArgument 1@÷collapsedEÝ
+15-16,18-19,21-22,24-25,27-28
+\end}Goý
+
+fo*ê Flex Only
+status open$	[ø Plain Lh?öArgument 1@÷collapsedEö
+1-16
+\enddsVÿ
+;	eùspace ~"<&ëFlex Only
+status open`	|ø Plain LM{öArgument 1@÷collapsedEï
+17,20,23,26
+\endkz]ý
+
+f]*ê Flex Only
+status open$	[ø Plain Lh?öArgument 1@÷collapsedEã
+18-19,21-22,24-25,27-28
+\endwAiý
+
+ei*ê Flex Only
+status open$	[ø Plain Lh?öArgument 1@÷collapsedEö
+1-19
+\enddsVÿ
+;	eùspace ~"<&ëFlex Only
+status open`	|ø Plain LM{öArgument 1@÷collapsedEò
+20,23,26
+\endhwZý
+
+eZ*ê Flex Only
+status open~?öArgument 1@÷collapsedEé
+21-22,24-25,27-28
+\endq;cý
+
+rc*ê Flex Only
+status open$	[ø Plain Lh?öArgument 1@÷collapsedEö
+1-22
+\enddsVÿ
+;	eùspace ~"<&ëFlex Only
+status open`	|ø Plain LM{öArgument 1@÷collapsedEõ
+23,26
+\endetWý
+
+rW*ê Flex Only
+status open{?öArgument 1@)ï
+24-25,27-28
+\endfuXý
+
+e]*ê Flex Only
+status open$	[ø Plain Lh?öArgument 1@÷collapsedEö
+1-25
+\enddsVÿ
+;	eùspace ~"<&ëFlex Only
+status open`	|ø Plain LM{öArgument 1@÷collapsedEø
+26
+\endbqTý
+
+e~÷Flex Only}üopenx?öArgument 1@)õ
+27-28
+\end`oRý
+
+r|÷Flex Only{)?öArgument 1@÷collapsedEà
+1,4,7,10,13,16,19,22,25,28
+\endzDlý
+
+e5yùLyX-Cod>Nê Flex Only
+status open;ùPlain Lq?öArgument 1@÷collapsedEù
+1
+\endapSÿ
+}	bùspace ~"<&ëFlex Only
+status open`	|ø Plain LM{öArgument 1@÷collapsedEã
+2,5,8,11,14,17,20,23,26
+\endwAiý
+
+ri*ê Flex Only
+status open$	[ø Plain Lh?öArgument 1@÷collapsedEÊ
+3-4,6-7,9-10,12-13,15-16,18-19,21-22,24-25,27-28
+\endKZüinseJé
+\family typewriter
+â€¢1ûbegin@ê Flex Only
+status open$	qø Plain L~?öArgument 1@÷collapsedE÷
+1-4
+\endcrUÿ
+	dùspace ~"<&ëFlex Only
+status open`	|ø Plain LM{öArgument 1@÷collapsedEå
+5,8,11,14,17,20,23,26
+\endu?gÿ
+Lëfamily typewriter
+â€¢1}@ê Flex Only
+status open$	qø Plain L~?öArgument 1@÷collapsedEÎ
+6-7,9-10,12-13,15-16,18-19,21-22,24-25,27-28
+\endGV~ý
+
+r~*ê Flex Only
+status open$	[ø Plain Lh?öArgument 1@÷collapsedE÷
+1-7
+\endcrUÿ
+	dùspace ~"<&ëFlex Only
+status open`	|ø Plain LM{öArgument 1@÷collapsedEç
+8,11,14,17,20,23,26
+\ends=eý
+
+re*ê Flex Only
+status open$	[ø Plain Lh?öArgument 1@÷collapsedEÒ
+9-10,12-13,15-16,18-19,21-22,24-25,27-28
+\endCRzý
+
+ez*ê Flex Only
+status open$	[ø Plain Lh?öArgument 1@÷collapsedEö
+1-10
+\enddsVÿ
+;	eùspace ~"<&ëFlex Only
+status open`	|ø Plain LM{öArgument 1@÷collapsedEé
+11,14,17,20,23,26
+\endq;cý
+
+ec*ê Flex Only
+status open$	[ø Plain Lh?öArgument 1@÷collapsedE×
+12-13,15-16,18-19,21-22,24-25,27-28
+\end>Muý
+
+fu*ê Flex Only
+status open$	[ø Plain Lh?öArgument 1@÷collapsedEö
+1-13
+\enddsVÿ
+;	eùspace ~"<&ëFlex Only
+status open`	|ø Plain LM{öArgument 1@÷collapsedEì
+14,17,20,23,26
+\endn}`ý
+
+f`*ê Flex Only
+status open$	[ø Plain Lh?öArgument 1@÷collapsedEÝ
+15-16,18-19,21-22,24-25,27-28
+\end}Goý
+
+eo*ê Flex Only
+status open$	[ø Plain Lh?öArgument 1@÷collapsedEö
+1-16
+\enddsVÿ
+;	eùspace ~"<&ëFlex Only
+status open`	|ø Plain LM{öArgument 1@÷collapsedEï
+17,20,23,26
+\endkz]ý
+
+e]*ê Flex Only
+status open$	[ø Plain Lh?öArgument 1@÷collapsedEã
+18-19,21-22,24-25,27-28
+\endwAiý
+
+ri*ê Flex Only
+status open$	[ø Plain Lh?öArgument 1@÷collapsedEö
+1-19
+\enddsVÿ
+;	eùspace ~"<&ëFlex Only
+status open`	|ø Plain LM{öArgument 1@÷collapsedEò
+20,23,26
+\endhwZý
+
+rZ*ê Flex Only
+status open~?öArgument 1@÷collapsedEé
+21-22,24-25,27-28
+\endq;cý
+
+ec*ê Flex Only
+status open$	[ø Plain Lh?öArgument 1@÷collapsedEö
+1-22
+\enddsVÿ
+;	eùspace ~"<&ëFlex Only
+status open`	|ø Plain LM{öArgument 1@÷collapsedEõ
+23,26
+\endetWý
+
+eW*ê Flex Only
+status open{?öArgument 1@)ï
+24-25,27-28
+\endfuXý
+
+r]*ê Flex Only
+status open$	[ø Plain Lh?öArgument 1@÷collapsedEö
+1-25
+\enddsVÿ
+;	eùspace ~"<&ëFlex Only
+status open`	|ø Plain LM{öArgument 1@÷collapsedEø
+26
+\endbqTý
+
+r~÷Flex Only}üopenx?öArgument 1@)õ
+27-28
+\end`oRý
+
+e|÷Flex Only{)?öArgument 1@÷collapsedEà
+1,4,7,10,13,16,19,22,25,28
+\endzDlý
+
+r5yøLyX-Code%gûdeepeX1øStandardHõ Separator ûbreakuÿ
+]QûFrameNêArgument 4
+status open9ùPlain LUõMove-to-fro8òtransformasjon;ü\endqGjÿ
+T	yñSeparator latex-G:ûdeepe(HdØ Itemize
+Komprimerer ikke data, men forbÿd<WI÷InitialisK?útabellJãd alle byte-verdier.
+ t[0]=0,ü1]=1õ2]=2, \SpecIöChar ldotsr"þLeyù ett ogôtegn fra inp7CúdeeperQüfinnEìet i tabellen, skrivUødex til Q`RülyttSúvi fanCófÃ¸rste plassmð (move to front)erúdeeperqêinput: caaaaacbbbbbabaÿbK?ïLyX-Code
+    inn:A=ô ut:21000012ü2111ÿ1A%útabelll)ô0: aca....cbüababD)ú1: bac>CÿaA)û2: cbþbaGLPA)ú3: ddd|AÙItemize
+Alle repeterte tegn blir til nuÿrG$þKo>Hvõe sekvenserO÷smÃ¥ tallN$ûLett 0ÿg4õandre veienõd utpakkingIVúdeeperUþStCýardlüinse÷eparator ûbreakPÿ
+P]	QûFrameNêArgument 4
+status open9ùPlain LUÙMTF gir mer effektiv Huffmankoding
+\enduKnÿ
+X	}ñSeparator latex-G:ûdeepe(Hdï Itemize
+Eksempel:,åLyX-Code
+    inn:caaaaacbbbÿbþbbA)ô ut:21000012þ00þ10A%fùItemize|íinset Tabular
+<lyxtä version="3" rows="4" columnò5">
+<features 4îvalignment="middle&4ÿ ÿc"üer" 0ýtop--ZZZ1ýrow`÷ell multijü="1"n$õ bottomlineïrue" usebox="noneaî\begin_inset Text
+òlayout Plain LúseriesXìld
+Frekv.
+ fÃ¸r
+\end4CTö
+</cell>
+<ã multicolumn="2" alignment="cûer" vætop" usebox="none">
+\begin^ü Texo~ø Plain Lýend:ö
+</cell>
+<ÿ tÿczûer" vñtop" bottomline÷rue" leftürighßusebox="none">
+\begin_inset Text
+òlayout Plain Lýend:ö
+</cell>
+<ã multicolumn="1" alignment="cûer" vñtop" bottomlineærue" usebox="none">
+\beginpú Text
+òlayout Plain LúseriesXóld
+Frekv.
+ et}û
+\end5DUö
+</cell>
+<ã multicolumn="2" alignment="cûer" vætop" usebox="none">
+\begin^ü Texo~ø Plain Lýend:ø
+</cell>ýrowó alignment="cûer" vætop" usebox="none">
+\begin[ü Texy{ø Plain Lù
+a
+\end*;ö
+</cell>
+<ÿ uÿc{ûer" vítop" usebox="none">vNü Tex_nø Plain L{ÿ9|*;ö
+</cell>
+<ÿ uÿc{ûer" vótop" leftline÷rue" righëusebox="none">
+\beginoú Text
+òlayout Plain Lýend:ö
+</cell>
+<ó alignment="cûer" vítop" usebox="none">uNü Texlnø Plain L{ÿ0|*;ö
+</cell>
+<ÿ uÿc{ûer" vítop" usebox="none">vNü Tex_nø Plain L{þ14}+<ø
+</cell>ýrowó alignment="cûer" vætop" usebox="none">
+\begin[ü Texl{ø Plain Lù
+b
+\end*;ö
+</cell>
+<ÿ uÿc{ûer" vítop" usebox="none">vNü Tex_nø Plain L{ÿ9|*;ö
+</cell>
+<ÿ uÿc{ûer" vótop" leftline÷rue" righëusebox="none">
+\beginoú Text
+òlayout Plain Lýend:ö
+</cell>
+<ó alignment="cûer" vítop" usebox="none">uNü Texlnø Plain L{ÿ1|*;ö
+</cell>
+<ÿ uÿc{ûer" vítop" usebox="none">vNü Tex_nø Plain L{ÿ3|*;ø
+</cell>ýrowó alignment="cûer" vætop" usebox="none">
+\begin[ü Texl{ø Plain Lù
+c
+\end*;ö
+</cell>
+<ÿ uÿc{ûer" vítop" usebox="none">vNü Tex_nø Plain L{ÿ2|*;ö
+</cell>
+<ÿ uÿc{ûer" vótop" leftline÷rue" righëusebox="none">
+\beginoú Text
+òlayout Plain Lýend:ö
+</cell>
+<ó alignment="cûer" vítop" usebox="none">uNü Texlnø Plain L{ÿ2|*;ö
+</cell>
+<ÿ uÿc{ûer" vítop" usebox="none">vNü Tex_nø Plain L{ÿ3|*;ø
+</cell>ýrowõlyxtabular>)6C	mçItemize
+FÃ¸r: like mange (mõ Quotes cldZÿa&ÿr&ü somP&ÿbP%]ûlayou^Xä Itemize
+Etter: overvekt av \ÿl\ÿ0&ÿr&ï, som kan fÃ¥ kormÿeýde.NûlayouO[údeeperù StandaXpöSeparator ûbreakx]QûFrameNêArgument 4
+status open9ùPlain LUýBZ2e^ñSeparator latex-Gsûdeepe(Hdá Itemize
+Burrows-Wheeler sorter	îÃ¥ vi fÃ¥r mange rGútisjonNi0ý900(ñinset space \thþ{}Uì
+
+kB blokkstÃ¸rrelset,rðMove-to-front gjHø ulike r6ìtisjoner om til nullKdXúDerett:üfungár run-length coding veldig bra!S$÷Huffmannk>ëav det som blir igjenHUúdeeperTøStandardkýinsLöSeparator ûbreakPÿ
+P]	QûFrameNêArgument 4
+status open9ùPlain LUîAdaptiv kompresjont^ÿ
+H	mñSeparator latex-G:ûdeepe(HdÑ Itemize
+Huffmankoding av ei fil, bruker samme ÿfxühele"ÿal^ÿEMõ kan bestÃ¥bùulike dHçr (f.eks.
+ norsk+engelsk)\údeeperjÿUUýhareõ bokstavfornýingWIéDe komprimeres best medQñe Huffman-trÃ¦rO\ûdeepegøStandard~üinse÷eparator ûbreak\ÿ
+\i	QûFrameNêArgument 4
+status open9ùPlain LUðKompresjon og AIr\ÿ
+	kñSeparator latex-G:ûdeepe(HdÎ Itemize
+Noen forskere mener datakompresjon og AI ósamme problemk2øAI: det :ñmph on
+kortesteødefault
+cþgrmát som oppfÃ¸rer seg intelligentJþndgÿ
+ódeeper
+\beginõ Itemize
+Ã…Lúdage r'þteÔ mÃ¸nstre (kan nyttes for kompresjon) krever|ÿs|pÿM3ø gir bedl\
+H$óDesimalene i líinset Formula $\pi$Lý
+
+ }!òvanskelig data3êt Ã¥ komprimere.
+ (mye(óriasjon) Men:KûlayouLsúdeeperï Itemize
+vi kjennwòrekkeutviklingúsom geqþr Oíinset Formula $\pi$wý
+
+.hÿ
+wñEt program med ?ðelig lengde, kanz	ò hele rekka.
+ Pmï Formula $\infty${ò
+
+ kompresjon!ûlayou&údeeperPÞ Itemize
+Ei zipfil er vanskelig Ã¥Uìimere, selv om det fvú bedrexû enn
+Jseÿ
+túdeeperè Itemize
+Hvis vi pakker G÷fila, kangýimerxùmed bz2l^îÃ… oppdage at noe daÿ-U	÷t, og derVrÚbehandles slik, krever
+ intelligensâ€¦}üdeep)%übody"øocument

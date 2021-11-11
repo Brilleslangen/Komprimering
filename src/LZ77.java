@@ -11,6 +11,7 @@ public class LZ77 {
 
     public static void main(String[] args) {
         simulate("opg8.pdf");
+        simulate("diverse-pdf.pdf");
     }
 
     private static void simulate(String filename) {
@@ -141,7 +142,7 @@ public class LZ77 {
                     int windowEnd = Math.max(position - WINDOW_SIZE + offset + peekLength, 0);
                     byte[] window = Arrays.copyOfRange(input, windowStart, windowEnd);
 
-                    if (peek.length < 2) {
+                    if (peek.length < 3) {
                         break;
                     }
 
