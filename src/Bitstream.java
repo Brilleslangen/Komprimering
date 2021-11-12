@@ -44,6 +44,9 @@ public class Bitstream {
 
     // Check this method if information loss at end
     public byte[] toBytes() {
+        // Stop sign
+        add(0b100000000,9);
+
         int i = bitstream.length-1;
         int bytesToRemove = 0;
         while (bitstream[i] == 0) {

@@ -2,9 +2,10 @@ import java.math.BigInteger;
 import java.util.*;
 
 public class Heap {
-    private static byte[] bytes = "Aleks er en kukk".getBytes();
+    private static byte[] bytes = "Tror denne shiten fungererer.".getBytes();
     private static long[][] codes = new long[256][2];
     private static int[] frequencies = new int[256];
+    private static final short STOP = 0b100000000;
 
     public static void main(String[] args) {
         // Construct frequencies and heap
@@ -37,7 +38,10 @@ public class Heap {
         for (int bit : bitstream.readBitStream(bytes)) {
             System.out.print(bit);
             if (currNode.isLeaf()) {
-                decompressed.add(currNode.charByte);
+                if (currNode.charByte == STOP)
+                    break;
+
+                decompressed.add((byte) currNode.charByte);
                 currNode = root;
             }
 
@@ -135,7 +139,6 @@ public class Heap {
             if (!nodeExists)
                 nodes.add(new Node(b, 1));
         }
-        nodes.add(new Node())
         nodes.sort(Comparator.comparingInt(a -> a.frequency));
         return nodes;
     }
@@ -148,12 +151,12 @@ public class Heap {
     }
 
     private static class Node {
-        private byte charByte;
+        private short charByte;
         private int frequency;
         private Node left;
         private Node right;
 
-        public Node(byte charByte, int frequency) {
+        public Node(short charByte, int frequency) {
             this.charByte = charByte;
             this.frequency = frequency;
         }
