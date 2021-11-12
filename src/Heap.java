@@ -1,18 +1,63 @@
-import java.util.Comparator;
-import java.util.LinkedList;
+import java.math.BigInteger;
+import java.util.*;
 
 public class Heap {
-    private static final byte[] testBytes = "wdevowuhøvbaqvj".getBytes();
+    private static byte[] bytes = "hahahaha".getBytes();
+    private static long[][] codes = new long[256][2];
+    private static Node root;
 
     public static void main(String[] args) {
-        LinkedList<Node> nodes = constructNodeList(testBytes);
-        System.out.println((int) nodes.stream().map(n -> n.frequency).reduce(0, Integer::sum));
+        System.out.println(removeDuplicates(bytes).length);
+        root = constructHeap(bytes);
+        byte[] compressed = compress(bytes, root);
+        System.out.println("done compressing");
+        byte[] decompressed = decompress(compressed, root);
 
-        Node root = constructHeap(testBytes);
-        System.out.println(root);
+        for (byte b : decompressed) {
+            System.out.print((char)b);
+        }
     }
 
-    private static Node constructHeap(byte[] bytes) {
+    public static byte[] compress(byte[] bytes, Node root) {
+        Bitstream bitstream = new Bitstream();
+        root.generateCode("");
+        for (byte b : bytes) {
+            bitstream.add(codes[b & 0xFF][0], codes[b & 0xFF][1]);
+        }
+        return bitstream.toBytes();
+    }
+
+    public static byte[] decompress(byte[] bytes, Node root) {
+        ArrayList<Byte> decompressed = new ArrayList<>();
+        Node currNode = root;
+        Bitstream bitstream = new Bitstream();
+        for (int bit : bitstream.readBitStream(bytes)) {
+            if (currNode.isLeaf()) {
+                decompressed.add(currNode.charByte);
+                currNode = root;
+            }
+
+            // continue reading
+            if (bit == 0) {
+                currNode = currNode.right;
+                continue;
+            }
+            currNode = root.left;
+        }
+        return unwrap(decompressed);
+    }
+
+    private static byte[] removeDuplicates(byte[] bytes) {
+        ArrayList<Byte> uniques = new ArrayList<>();
+        for (byte b : bytes) {
+            if (!uniques.contains(b)) {
+                uniques.add(b);
+            }
+        }
+        return unwrap(uniques);
+    }
+
+    public static Node constructHeap(byte[] bytes) {
         LinkedList<Node> nodes = constructNodeList(bytes);
         Node thisNode;
         while (nodes.size() > 1 && (thisNode = nodes.pollLast()) != null) {
@@ -71,9 +116,31 @@ public class Heap {
             this.frequency = left.frequency + right.frequency;
         }
 
+        public void generateCode(String currCode) {
+            if (isLeaf()) {
+                codes[charByte & 0xFF][0] = new BigInteger(currCode, 2).longValue();
+                codes[charByte & 0xFF][1] = currCode.length();
+                return;
+            }
+            right.generateCode(currCode + "0");
+            left.generateCode(currCode + "1");
+        }
+
+        private boolean isLeaf() {
+            return left == null && right == null;
+        }
+
         @Override
         public String toString() {
             return "Byte: " + charByte + " - Frequency: " + frequency;
         }
+    }
+
+    private static byte[] unwrap(ArrayList<Byte> bigBytes) {
+        byte[] bytes = new byte[bigBytes.size()];
+        for (int i = 0; i < bytes.length; i++) {
+            bytes[i] = bigBytes.get(i);
+        }
+        return bytes;
     }
 }
