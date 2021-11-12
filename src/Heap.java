@@ -2,17 +2,15 @@ import java.math.BigInteger;
 import java.util.*;
 
 public class Heap {
-    private static byte[] bytes = "hahahaha".getBytes();
+    private static byte[] bytes = "Du kan dette daarligere enn meg".getBytes();
     private static long[][] codes = new long[256][2];
-    private static Node root;
 
     public static void main(String[] args) {
-        System.out.println(removeDuplicates(bytes).length);
-        root = constructHeap(bytes);
+        Node root = constructHeap(bytes);
         byte[] compressed = compress(bytes, root);
-        System.out.println("done compressing");
         byte[] decompressed = decompress(compressed, root);
 
+        printCodes();
         for (byte b : decompressed) {
             System.out.print((char)b);
         }
@@ -32,6 +30,7 @@ public class Heap {
         Node currNode = root;
         Bitstream bitstream = new Bitstream();
         for (int bit : bitstream.readBitStream(bytes)) {
+            System.out.print(bit);
             if (currNode.isLeaf()) {
                 decompressed.add(currNode.charByte);
                 currNode = root;
@@ -42,9 +41,23 @@ public class Heap {
                 currNode = currNode.right;
                 continue;
             }
-            currNode = root.left;
+            currNode = currNode.left;
         }
+        System.out.println();
         return unwrap(decompressed);
+    }
+
+    private static void printCodes() {
+        for(int i = 0; i < codes.length; i++) {
+            if (codes[i][1] != 0) {
+                String binary = Long.toBinaryString(codes[i][0]);
+                String additionalZeros = "";
+                for (int zeros = 0; zeros < codes[i][1] - binary.length(); zeros++) {
+                    additionalZeros += "0";
+                }
+                System.out.println((char) i + ": " + additionalZeros + binary );
+            }
+        }
     }
 
     private static byte[] removeDuplicates(byte[] bytes) {
