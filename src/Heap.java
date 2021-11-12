@@ -2,11 +2,16 @@ import java.math.BigInteger;
 import java.util.*;
 
 public class Heap {
-    private static byte[] bytes = "Du kan dette daarligere enn meg".getBytes();
+    private static byte[] bytes = "Aleks er en kukk".getBytes();
     private static long[][] codes = new long[256][2];
+    private static int[] frequencies = new int[256];
 
     public static void main(String[] args) {
-        Node root = constructHeap(bytes);
+        // Construct frequencies and heap
+        constructFrequencyArr(bytes);
+        Node root = constructHeap(frequencies);
+
+        // compress and decompress
         byte[] compressed = compress(bytes, root);
         byte[] decompressed = decompress(compressed, root);
 
@@ -70,8 +75,8 @@ public class Heap {
         return unwrap(uniques);
     }
 
-    public static Node constructHeap(byte[] bytes) {
-        LinkedList<Node> nodes = constructNodeList(bytes);
+    public static Node constructHeap(int[] frequencies) {
+        LinkedList<Node> nodes = constructNodeList(frequencies);
         Node thisNode;
         while (nodes.size() > 1 && (thisNode = nodes.pollLast()) != null) {
             Node nextNode = nodes.pollLast();
@@ -112,6 +117,36 @@ public class Heap {
         return nodes;
     }
 
+    private static LinkedList<Node> constructNodeList(int[] frequencies) {
+        LinkedList<Node> nodes = new LinkedList<>();
+        for (int i = 0; i < frequencies.length; i++) {
+            byte b = (byte) i;
+            boolean nodeExists = false;
+            if (frequencies[i] <= 0)
+                continue;
+
+            for (Node node : nodes) {
+                if (node.charByte == b) {
+                    node.frequency++;
+                    nodeExists = true;
+                    break;
+                }
+            }
+            if (!nodeExists)
+                nodes.add(new Node(b, 1));
+        }
+        nodes.add(new Node())
+        nodes.sort(Comparator.comparingInt(a -> a.frequency));
+        return nodes;
+    }
+
+    private static void constructFrequencyArr(byte[] bytes) {
+        frequencies = new int[256];
+        for (byte b : bytes) {
+            frequencies[b & 0xFF]++;
+        }
+    }
+
     private static class Node {
         private byte charByte;
         private int frequency;
@@ -141,6 +176,14 @@ public class Heap {
 
         private boolean isLeaf() {
             return left == null && right == null;
+        }
+
+        @Override
+        public boolean equals(Object o) {
+            if (this == o) return true;
+            if (o == null || getClass() != o.getClass()) return false;
+            Node node = (Node) o;
+            return charByte == node.charByte;
         }
 
         @Override

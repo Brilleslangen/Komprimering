@@ -50,7 +50,7 @@ public class Bitstream {
             bytesToRemove++;
             i--;
         }
-        bitstream = Arrays.copyOf(bitstream, bitstream.length - bytesToRemove);
+        bitstream = Arrays.copyOf(bitstream, bitstream.length - bytesToRemove + 1);
         return bitstream;
     }
 
