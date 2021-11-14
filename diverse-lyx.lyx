@@ -5348,7 +5348,7 @@ Søker bakover i et sirkulært buffer
 \end_layout
 
 \begin_layout Itemize
-Output kan komprimeres videre med Huffman-koding 
+Output kan komprimeres videre med HuffmanTree-koding
 \end_layout
 
 \end_deeper
@@ -6050,7 +6050,7 @@ Kompresjon hvis ordene blir lengre enn numrene
 \end_layout
 
 \begin_layout Itemize
-LZW+Huffman 
+LZW+HuffmanTree
 \begin_inset Formula $\rightarrow$
 \end_inset
 
@@ -13398,7 +13398,7 @@ Ulike deler har ulik bokstavfordeling
 \end_layout
 
 \begin_layout Itemize
-De komprimeres best med ulike Huffman-trær
+De komprimeres best med ulike HuffmanTree-trær
 \end_layout
 
 \end_deeper

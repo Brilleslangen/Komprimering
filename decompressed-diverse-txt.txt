@@ -351,7 +351,7 @@ Seksjon 2 Mer om datakompresjon
 
   • Søker bakover i et sirkulært buffer
 
-  • Output kan komprimeres videre med Huffman-koding 
+  • Output kan komprimeres videre med HuffmanTree-koding
 
 
 
@@ -534,7 +534,7 @@ http://www.cs.duke.edu/courses/spring03/cps296.5/papers/ziv_lempel_1977_universa
 
   • Kompresjon hvis ordene blir lengre enn numrene
 
-  • LZW+Huffman \rightarrowDeflate (brukt i zip)
+  • LZW+HuffmanTree \rightarrowDeflate (brukt i zip)
 
     
 
@@ -790,7 +790,7 @@ http://www.cs.duke.edu/courses/spring03/cps296.5/papers/ziv_lempel_1977_universa
 
     – Ulike deler har ulik bokstavfordeling
 
-    – De komprimeres best med ulike Huffman-trær
+    – De komprimeres best med ulike HuffmanTree-trær
 
 
 

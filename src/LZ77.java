@@ -8,12 +8,7 @@ public class LZ77 {
     private static final String testWord = "a aasqzzz ax xzywplm";
     private static final byte[] bytes = testWord.getBytes();
 
-
-    public static void main(String[] args) {
-        simulate("opg8.pdf");
-        simulate("diverse-pdf.pdf");
-    }
-
+    /**
     private static void simulate(String filename) {
         String compFilename = "compressed-" + filename.split("\\.")[0] + ".Z";
         String uncompFilename = "uncompressed-" + filename;
@@ -26,15 +21,7 @@ public class LZ77 {
         byte[] decompressed = decompress(readCompressedFile(compFilename));
         writeFile(decompressed, uncompFilename);
     }
-
-    private static void readWriteTest() {
-        byte[] compressed = compress(bytes);
-        writeCompressedFile(compressed, "test.Z");
-
-        // Decompress
-        byte[] decompressed = decompress(readCompressedFile("test.Z"));
-        writeFile(decompressed, "test.txt");
-    }
+     **/
 
     private static void translateTest() {
         byte[] compressed = compress(bytes);
@@ -51,51 +38,8 @@ public class LZ77 {
         }
     }
 
-    private static byte[] readCompressedFile(String filename) {
-        byte[] bytes;
-        try (DataInputStream dis = new DataInputStream((new BufferedInputStream(new FileInputStream(System.getProperty("user.dir") + "/" + filename))))) {
-            bytes = dis.readAllBytes();
-        } catch (Exception e) {
-            e.printStackTrace();
-            throw new RuntimeException("An error occured while writing file.");
-        }
-        return bytes;
-    }
 
-    private static void writeCompressedFile(byte[] data, String filename) {
-        try (DataOutputStream dos = new DataOutputStream(
-                new BufferedOutputStream(new FileOutputStream(System.getProperty("user.dir") + "/" + filename)))) {
-
-            for (byte b : data) {
-                dos.writeByte(b);
-            }
-        } catch (Exception e) {
-            e.printStackTrace();
-            throw new RuntimeException("An error occured while writing file.");
-        }
-    }
-
-    private static byte[] readFile(String filename) {
-        try {
-            return Files.readAllBytes(Paths.get(System.getProperty("user.dir") + "/" + filename));
-        } catch (Exception e) {
-            e.printStackTrace();
-            throw new RuntimeException("An error occured while loading file.");
-        }
-    }
-
-    private static void writeFile(byte[] data, String filename) {
-        File file = new File(System.getProperty("user.dir") + "/" + filename);
-        try {
-            Files.write(file.toPath(), data);
-        } catch (Exception e) {
-            e.printStackTrace();
-            throw new RuntimeException("An error occured while writing file.");
-        }
-    }
-
-
-    private static byte[] decompress(byte[] encodedStream) {
+    public static byte[] decompress(byte[] encodedStream) {
         ArrayList<Byte> decodedStream = new ArrayList<>();
 
         for (int position = 0; position < encodedStream.length; position++) {
@@ -123,7 +67,7 @@ public class LZ77 {
         return unwrap(decodedStream);
     }
 
-    private static byte[] compress(byte[] input) {
+    public static byte[] compress(byte[] input) {
         ArrayList<Byte> output = new ArrayList<>();
         ArrayList<Byte> uncompressables = new ArrayList<>();
 

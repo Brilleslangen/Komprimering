@@ -1,42 +1,70 @@
 import java.math.BigInteger;
 import java.util.*;
 
-public class Heap {
-    private static byte[] bytes = "Tror denne shiten fungererer.".getBytes();
-    private static long[][] codes = new long[256][2];
-    private static int[] frequencies = new int[256];
+public class HuffmanTree {
+    private static long[][] codes = new long[257][2];
+    private static int[] frequencies = new int[257];
     private static final short STOP = 0b100000000;
 
-    public static void main(String[] args) {
-        // Construct frequencies and heap
-        constructFrequencyArr(bytes);
-        Node root = constructHeap(frequencies);
+    public static void test() {
+        byte[] bytes = "Hei funker denne?".getBytes();
+        byte[] compressed = compress(bytes);
+        byte[] decompressed = decompress(compressed);
 
-        // compress and decompress
-        byte[] compressed = compress(bytes, root);
-        byte[] decompressed = decompress(compressed, root);
-
-        printCodes();
         for (byte b : decompressed) {
-            System.out.print((char)b);
+            System.out.print((char) b);
         }
+
+        System.out.println();
+        printCodes();
     }
 
-    public static byte[] compress(byte[] bytes, Node root) {
+    public static byte[] compress(byte[] bytes) {
+        constructFrequencyArr(bytes);
+        Node root = constructHeap(frequencies);
         Bitstream bitstream = new Bitstream();
         root.generateCode("");
+
+        //Add frequencies
+        for (int frequency : frequencies) {
+            bitstream.add(frequency, 32);
+        }
+
+        // Add e
         for (byte b : bytes) {
             bitstream.add(codes[b & 0xFF][0], codes[b & 0xFF][1]);
         }
         return bitstream.toBytes();
     }
 
-    public static byte[] decompress(byte[] bytes, Node root) {
+    public static byte[] decompress(byte[] bytes) {
         ArrayList<Byte> decompressed = new ArrayList<>();
-        Node currNode = root;
+        Node root = null;
+        Node currNode = null;
         Bitstream bitstream = new Bitstream();
+        int bitsRead = 0;
+        String binaryString = "";
+
         for (int bit : bitstream.readBitStream(bytes)) {
-            System.out.print(bit);
+
+            // Setting up frequencyArray
+            if (bitsRead < 8224) {
+                binaryString += bit;
+                bitsRead++;
+
+                if (bitsRead % 32 == 0) {
+                    frequencies[(bitsRead / 32) - 1] = Integer.parseInt(binaryString, 2);
+                    binaryString = "";
+                }
+                continue;
+            }
+            if (bitsRead == 8224) {
+                root = constructHeap(frequencies);
+                currNode = root;
+                bitsRead++;
+            }
+
+            // Decoding
             if (currNode.isLeaf()) {
                 if (currNode.charByte == STOP)
                     break;
@@ -52,8 +80,13 @@ public class Heap {
             }
             currNode = currNode.left;
         }
-        System.out.println();
         return unwrap(decompressed);
+    }
+
+    private static void printFrequencies() {
+        for(int i = 0; i < frequencies.length; i++) {
+            System.out.println(i + ": " + frequencies[i]);
+        }
     }
 
     private static void printCodes() {
@@ -69,7 +102,7 @@ public class Heap {
         }
     }
 
-    private static byte[] removeDuplicates(byte[] bytes) {
+    private byte[] removeDuplicates(byte[] bytes) {
         ArrayList<Byte> uniques = new ArrayList<>();
         for (byte b : bytes) {
             if (!uniques.contains(b)) {
@@ -102,25 +135,6 @@ public class Heap {
         return nodes.pollLast();
     }
 
-    private static LinkedList<Node> constructNodeList(byte[] bytes) {
-        LinkedList<Node> nodes = new LinkedList<>();
-        for (byte b : bytes) {
-            boolean nodeExists = false;
-            for (Node node : nodes) {
-                if (node.charByte == b) {
-                    node.frequency++;
-                    nodeExists = true;
-                    break;
-                }
-            }
-            if (nodeExists)
-                continue;
-            nodes.add(new Node(b, 1));
-        }
-        nodes.sort(Comparator.comparingInt(a -> a.frequency));
-        return nodes;
-    }
-
     private static LinkedList<Node> constructNodeList(int[] frequencies) {
         LinkedList<Node> nodes = new LinkedList<>();
         for (int i = 0; i < frequencies.length; i++) {
@@ -144,7 +158,8 @@ public class Heap {
     }
 
     private static void constructFrequencyArr(byte[] bytes) {
-        frequencies = new int[256];
+        frequencies = new int[257];
+        frequencies[256] = 1;
         for (byte b : bytes) {
             frequencies[b & 0xFF]++;
         }
