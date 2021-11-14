@@ -8,21 +8,6 @@ public class LZ77 {
     private static final String testWord = "a aasqzzz ax xzywplm";
     private static final byte[] bytes = testWord.getBytes();
 
-    /**
-    private static void simulate(String filename) {
-        String compFilename = "compressed-" + filename.split("\\.")[0] + ".Z";
-        String uncompFilename = "uncompressed-" + filename;
-
-        // Compress
-        byte[] compressed = compress(readFile(filename));
-        writeCompressedFile(compressed, compFilename);
-
-        // Decompress
-        byte[] decompressed = decompress(readCompressedFile(compFilename));
-        writeFile(decompressed, uncompFilename);
-    }
-     **/
-
     private static void translateTest() {
         byte[] compressed = compress(bytes);
         System.out.println("Word to compress : \n" + testWord + "\n");
@@ -45,7 +30,11 @@ public class LZ77 {
         for (int position = 0; position < encodedStream.length; position++) {
             // if uncompressed
             if (encodedStream[position] < 0) {
-                for (int i = 0; i < Math.abs(encodedStream[position - i]); i++) {
+                byte firstByte = encodedStream[position];
+                position++;
+                byte secondByte = encodedStream[position];
+                int sequenceSize = Math.abs((short) (((firstByte & 0xFF) << 8) | (secondByte & 0xFF)));
+                for (int i = 0; i < sequenceSize; i++) {
                     position++;
                     decodedStream.add(encodedStream[position]);
                 }
@@ -55,7 +44,6 @@ public class LZ77 {
             // if sequence reference
             int offset = encodedStream[position];
             int length = encodedStream[position + 1];
-            position++;
 
             for (int l = 0; l < length; l++) {
                 if (decodedStream.size() - offset == -82) {
@@ -104,7 +92,7 @@ public class LZ77 {
             }
 
             boolean lastEntry = position >= input.length-1;
-            boolean maxedOut = -uncompressables.size() -1  == Byte.MIN_VALUE;
+            boolean maxedOut = -uncompressables.size() -1  == Short.MIN_VALUE;
 
             if (matchFound) {
                 // Transfer uncompressables
@@ -130,7 +118,11 @@ public class LZ77 {
     }
 
     private static void transferUncompressables(ArrayList<Byte> output, ArrayList<Byte> uncompressables) {
-        output.add((byte) -uncompressables.size());
+        short sequenceSize = (short) -uncompressables.size();
+        byte firstByte = (byte) (sequenceSize >> 8);
+        byte secondByte = (byte) sequenceSize;
+        output.add(firstByte);
+        output.add(secondByte);
         output.addAll(uncompressables);
         uncompressables.clear();
     }

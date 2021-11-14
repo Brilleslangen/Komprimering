@@ -46,7 +46,6 @@ public class Main {
     private static void writeCompressedFile(byte[] data, String filename) {
         try (DataOutputStream dos = new DataOutputStream(
                 new BufferedOutputStream(new FileOutputStream(System.getProperty("user.dir") + "/" + filename)))) {
-
             for (byte b : data) {
                 dos.writeByte(b);
             }
